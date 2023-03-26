@@ -1,0 +1,28 @@
+
+Week: 31
+Desc: Red Bull Junior Driver Trials
+Car: Red Bull X2014 Junior
+Track: Red Bull Ring - Full Course
+Image: https://www.gtplanet.net/forum/media/red-bull-ring__1-jpeg.132973/full
+Image: https://www.gtplanet.net/forum/media/red-bull-ring__3-jpeg.132975/full
+Image: https://www.gtplanet.net/forum/media/red-bull-ring__2-jpeg.132974/full
+Image: https://www.gtplanet.net/forum/media/red-bull-ring__10-jpeg.132982/full
+Image: https://www.gtplanet.net/forum/media/red-bull-ring__4-jpeg.132976/full
+Outfile: week31.out
+Statfile: week31.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: Hasnain282 Time: 1'31.274 Disq: green
+PSN: half_sourly Time: 1'31.864 Disq: green
+PSN: benjoi84 Time: 1'32.640 Disq: green
+PSN: tmtkview Time: 1'32.765 Disq: green
+PSN: JamCar0ne Time: 1'33.789 Disq: unverified
+

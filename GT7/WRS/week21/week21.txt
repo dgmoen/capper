@@ -1,0 +1,34 @@
+
+Week: 21
+Desc: A Big Track Day at Willow
+Car: Camaro ZL1 1LE Package '18
+Track: Willow Springs International Raceway: Big Willow
+Image: https://www.gtplanet.net/forum/media/20970487142153133-jpg.130649/full
+Image: https://www.gtplanet.net/forum/media/20970065849763889-jpg.130650/full
+Image: https://www.gtplanet.net/forum/media/20970256841550023-jpg.130653/full
+Image: https://www.gtplanet.net/forum/media/20970221507236057-jpg.130652/full
+Image: https://www.gtplanet.net/forum/media/20970076592412023-jpg.130651/full
+Outfile: week21.out
+Statfile: week21.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: GTP_Jammy Time: 1'15.196 Disq: green
+PSN: Hasnain282 Time: 1'15.595 Disq: green
+PSN: shoenboggie Time: 1'15.871 Disq: green
+PSN: half_sourly Time: 1'16.115 Disq: green
+PSN: Nebuc72 Time: 1'16.454 Disq: green
+PSN: RuddRacer Time: 1'16.508 Disq: unverified
+PSN: xxpkslayer Time: 1'17.146 Disq: unverified
+PSN: BobHildalgo Time: 1'17.249 Disq: unverified
+PSN: GTP_baubry Time: 1'17.560 Disq: unverified
+PSN: GTP_Eggstor Time: 1'17.569 Disq: green
+PSN: GTP_Steven Time: 1'19.016 Disq: green
+PSN: TRiP_Drifter Time: 1'20.515 Disq: unverified

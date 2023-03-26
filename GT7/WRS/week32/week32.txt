@@ -1,0 +1,30 @@
+
+Week: 32
+Desc: Going to the Park
+Car: Toyota Corolla Levin 1600GT APEX (AE86) '83
+Track: Kyoto Driving Park - Miyabi
+Image: https://www.gtplanet.net/forum/media/kyoto-driving-park-miyabi__2-jpeg.133243/full
+Image: https://www.gtplanet.net/forum/media/gran-turismo%E2%84%A2-7_20221114154724-jpg.133240/full
+Image: https://www.gtplanet.net/forum/media/kyoto-driving-park-miyabi__1-jpeg.133242/full
+Image: https://www.gtplanet.net/forum/media/kyoto-driving-park-miyabi__5-jpeg.133246/full
+Image: https://www.gtplanet.net/forum/media/kyoto-driving-park-miyabi__3-jpeg.133244/full
+Outfile: week32.out
+Statfile: week32.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: GTP_EDK Time: 0'50.815 Disq: green
+PSN: shoenboggie Time: 0'50.829 Disq: green
+PSN: half_sourly Time: 0'50.921 Disq: green
+PSN: Hasnain282 Time: 0'50.995 Disq: green
+PSN: benjoi84 Time: 0'50.998 Disq: unverified
+PSN: tmtkview Time: 0'51.262 Disq: green
+PSN: JamCar0ne Time: 0'51.501 Disq: green
+PSN: stibbz Time: 0'52.836 Disq: green

@@ -1,0 +1,32 @@
+
+Week: 36
+Desc: Brands New Mini
+Car: Mini Cooper S '05
+Track: Brands Hatch Indy
+Image: https://www.gtplanet.net/forum/proxy.php?image=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FFjtiP1NXoAEGPJt%3Fformat%3Djpg%26name%3Dmedium&hash=0aac1525f489fe5c6bbf2cab723c3801
+Image: https://www.gtplanet.net/forum/proxy.php?image=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FFjtiCbPXkAMk-10%3Fformat%3Djpg%26name%3Dmedium&hash=8cd2bb6dc47bf2cdcdbb8fe7ff437807
+Image: https://www.gtplanet.net/forum/proxy.php?image=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FFjtiM32XkAAmOHf%3Fformat%3Djpg%26name%3Dmedium&hash=ecf1b69d0169d1834ae00f48fafebd2a
+Image: https://www.gtplanet.net/forum/proxy.php?image=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FFjth_brXgAIH5R3%3Fformat%3Djpg%26name%3Dmedium&hash=971da0c932949dfc0f29760fde37b876
+Image: https://www.gtplanet.net/forum/proxy.php?image=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FFjth77-WQAEAW4V%3Fformat%3Djpg%26name%3Dmedium&hash=abfb69664f83a00d4e9a1e35aebfa21e
+Outfile: week36.out
+Statfile: week36.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: Hasnain282 Time: 0'56.579 Disq: green
+PSN: half_sourly Time: 0'56.821 Disq: green
+PSN: GTP_Coupe Time: 0'56.890 Disq: green
+PSN: benjoi84 Time: 0'57.224 Disq: green
+PSN: tmtkview Time: 0'57.523 Disq: green
+PSN: JamCar0ne Time: 0'57.715 Disq: green
+PSN: GTP_Eggstor Time: 0'57.819 Disq: unverified
+PSN: GTP_Steven Time: 0'58.545 Disq: green
+PSN: Maique Time: 0'59.580 Disq: green
+PSN: Askorbiini Time: 1'00.154 Disq: green

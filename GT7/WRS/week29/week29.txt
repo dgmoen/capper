@@ -1,0 +1,28 @@
+
+Week: 29
+Desc: Cayman the Dragon
+Car: Porsche Cayman GT4 Clubsport
+Track: Dragon Trail - Gardens
+Image: https://www.gtplanet.net/forum/media/20970393534772678-jpg.132635/full
+Image: https://www.gtplanet.net/forum/media/20970368660111389-jpg.132634/full
+Image: https://www.gtplanet.net/forum/media/20970145666970908-jpg.132633/full
+Image: https://www.gtplanet.net/forum/media/20970737257043508-jpg.132636/full
+Image: https://www.gtplanet.net/forum/media/20970918700766130-jpg.132630/full
+Outfile: week29.out
+Statfile: week29.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: Hasnain282 Time: 1'35.893 Disq: green
+PSN: half_sourly Time: 1'36.956 Disq: green
+PSN: benjoi84 Time: 1'36.989 Disq: green
+PSN: shoenboggie Time: 1'37.025 Disq: unverified
+PSN: tmtkview Time: 1'37.662 Disq: green
+PSN: GTP_Eggstor Time: 1'38.873 Disq: unverified

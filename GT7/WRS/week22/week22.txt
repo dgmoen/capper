@@ -1,0 +1,33 @@
+
+Week: 22
+Desc: Spa Super Formula Grand Prix
+Car: Super Formula SF19 / Toyota '19 or Honda '19
+Track: Circuit de Spa Francorchamps - Full Course
+Image: https://www.gtplanet.net/forum/media/circuit-de-spa-francorchamps__6-jpeg.130889/full
+Image: https://www.gtplanet.net/forum/media/circuit-de-spa-francorchamps__1-jpeg.130884/full
+Image: https://www.gtplanet.net/forum/media/circuit-de-spa-francorchamps__10-jpeg.130893/full
+Image: https://www.gtplanet.net/forum/media/circuit-de-spa-francorchamps__17-jpeg.130900/full
+Image: https://www.gtplanet.net/forum/media/circuit-de-spa-francorchamps__11-jpeg.130894/full
+Outfile: week22.out
+Statfile: week22.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: StigsTC Time: 1'51.475 Disq: green
+PSN: Hasnain282 Time: 1'52.338 Disq: green
+PSN: BobHildalgo Time: 1'52.807 Disq: green
+PSN: half_sourly Time: 1'53.079 Disq: green
+PSN: Mysteron71 Time: 1'53.111 Disq: unverified
+PSN: Speedy6543 Time: 1'53.413 Disq: green
+PSN: xxpkslayer Time: 1'53.790 Disq: unverified
+PSN: Allibubba99 Time: 1'54.713 Disq: green
+PSN: GTP_Eggstor Time: 1'55.257 Disq: unverified
+PSN: TRiP_Drifter Time: 1'58.123 Disq: unverified
+PSN: DonNerazzurri666 Time: 2'03.466 Disq: green

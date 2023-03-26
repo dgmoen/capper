@@ -1,0 +1,32 @@
+
+Week: 25
+Desc: S-FR East at Suzuka
+Car: Toyota S-FR '15
+Track: Suzuka - East Course
+Image: https://www.gtplanet.net/forum/media/suzuka-circuit-east-course_-jpeg.131510/full
+Image: https://www.gtplanet.net/forum/media/suzuka-circuit-east-course__9-jpeg.131519/full
+Image: https://www.gtplanet.net/forum/media/suzuka-circuit-east-course__4-jpeg.131514/full
+Image: https://www.gtplanet.net/forum/media/suzuka-circuit-east-course__2-jpeg.131512/full
+Image: https://www.gtplanet.net/forum/media/suzuka-circuit-east-course__1-jpeg.131511/full
+Outfile: week25.out
+Statfile: week25.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: Mysteron71 Time: 1'02.984 Disq: green
+PSN: Hasnain282 Time: 1'03.268 Disq: green
+PSN: half_sourly Time: 1'03.565 Disq: green
+PSN: Nebuc72 Time: 1'03.588 Disq: green
+PSN: tmtkview Time: 1'03.821 Disq: green
+PSN: RMedia_Obelisk Time: 1'03.994 Disq: green
+PSN: GTP_Eggstor Time: 1'04.454 Disq: green
+PSN: JamCar0ne Time: 1'04.558 Disq: unverified
+PSN: GTP_Steven Time: 1'05.035 Disq: green
+

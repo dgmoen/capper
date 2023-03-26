@@ -1,0 +1,29 @@
+
+Week: 24
+Desc: WRX = Rallycross
+Car: Subaru WRX STI Type S '14
+Track: Circuit de Barcelona-Catalunya Rallycross Layout
+Image: https://www.gtplanet.net/forum/media/20970558861426111-jpg.131445/full
+Image: https://www.gtplanet.net/forum/media/20970219028064132-jpg.131446/full
+Image: https://www.gtplanet.net/forum/media/20970572217764239-jpg.131444/full
+Image: https://www.gtplanet.net/forum/media/20970700653349021-jpg.131439/full
+Image: https://www.gtplanet.net/forum/media/20970393164113965-jpg.131440/full
+Outfile: week24.out
+Statfile: week24.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: shoenboggie Time: 0'46.660 Disq: unverified
+PSN: Hasnain282 Time: 0'47.082 Disq: unverified
+PSN: Nebuc72 Time: 0'47.415 Disq: unverified
+PSN: GTP_Eggstor Time: 0'48.193 Disq: unverified
+PSN: Allibubba99 Time: 0'48.259 Disq: unverified
+PSN: JamCar0ne Time: 0'48.442 Disq: unverified
+PSN: Askorbiini Time: 0'49.926 Disq: unverified

@@ -1,0 +1,31 @@
+
+Week: 27
+Desc: A Topoliss Roadster
+Car: Mazda Roadster Touring Car
+Track: Autopolis International Racing Course - Shortcut Course
+Image: https://www.gtplanet.net/forum/media/autopolis-international-racing-course-short-course_edit-jpg.131877/full
+Image: https://www.gtplanet.net/forum/media/autopolis-international-racing-course-short-course__3-jpeg.131871/full
+Image: https://www.gtplanet.net/forum/media/autopolis-international-racing-course-short-course__2-jpeg.131870/full
+Image: https://www.gtplanet.net/forum/media/autopolis-international-racing-course-short-course__1-jpeg.131869/full
+Image: https://www.gtplanet.net/forum/media/autopolis-international-racing-course-short-course__6-jpeg.131874/full
+Outfile: week27.out
+Statfile: week27.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: mistersafeway Time: 1'18.276 Disq: green
+PSN: Mysteron71 Time: 1'18.330 Disq: green
+PSN: Nebuc72 Time: 1'18.522 Disq: green
+PSN: Hasnain282 Time: 1'18.599 Disq: unverified
+PSN: half_sourly Time: 1'18.814 Disq: green
+PSN: bl23ub Time: 1'19.180 Disq: unverified
+PSN: GTP_tzracer Time: 1'19.290 Disq: unverified
+PSN: tmtkview Time: 1'19.301 Disq: unverified
+PSN: GTP_Eggstor Time: 1'19.996 Disq: unverified

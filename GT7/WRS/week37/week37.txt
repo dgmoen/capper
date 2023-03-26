@@ -1,0 +1,28 @@
+
+Week: 37
+Desc: M2 and the Streets of Willow
+Car: BMW M2 Competition ‘18
+Track: Willow Springs International Raceway: Streets of Willow Springs
+Image: https://www.gtplanet.net/forum/media/20970074501290745-jpg.134101/full
+Image: https://www.gtplanet.net/forum/media/20969915033806465-jpg.134102/full
+Image: https://www.gtplanet.net/forum/media/20970248677432632-jpg.134104/full
+Image: https://www.gtplanet.net/forum/media/20970621186834469-jpg.134105/full
+Image: https://www.gtplanet.net/forum/media/20970244935180831-jpg.134103/full
+Outfile: week37.out
+Statfile: week37.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: Hasnain282 Time: 1'15.721 Disq: green
+PSN: shoenboggie Time: 1'16.343 Disq: green
+PSN: benjoi84 Time: 1'17.704 Disq: green
+PSN: JamCar0ne Time: 1'18.167 Disq: unverified
+PSN: GTP_Eggstor Time: 1'20.401 Disq: unverified
+PSN: Maique Time: 1'25.185 Disq: green

@@ -1,0 +1,35 @@
+
+Week: 20
+Desc: Bathurst And The 650S
+Car: McLaren 650S GT3 '15
+Track: Mount Panorama Circuit - Full Course
+Image: https://www.gtplanet.net/forum/media/mount-panorama-motor-racing-circuit__1-jpeg.130428/full
+Image: https://www.gtplanet.net/forum/media/mount-panorama-motor-racing-circuit__6-jpeg.130433/full
+Image: https://www.gtplanet.net/forum/media/mount-panorama-motor-racing-circuit__5-jpeg.130432/full
+Image: https://www.gtplanet.net/forum/media/mount-panorama-motor-racing-circuit__2-jpeg.130429/full
+Image: https://www.gtplanet.net/forum/media/mount-panorama-motor-racing-circuit__7-jpeg.130434/full
+Outfile: week20.out
+Statfile: week20.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: Hasnain282 Time: 1'58.707 Disq: green
+PSN: GTP_Jammy Time: 1'58.713 Disq: green
+PSN: Nebuc72 Time: 1'59.884 Disq: green
+PSN: half_sourly Time: 2'00.288 Disq: green
+PSN: RuddRacer Time: 2'01.225 Disq: green
+PSN: BobHildalgo Time: 2'02.487 Disq: unverified
+PSN: Allibubba99 Time: 2'03.157 Disq: green
+PSN: GTP_Eggstor Time: 2'03.367 Disq: green
+PSN: GTP_Frank Time: 2'04.898 Disq: unverified
+PSN: TRiP_Drifter Time: 2'05.199 Disq: unverified
+PSN: GTP_Steven Time: 2'06.964 Disq: green
+PSN: DonNerazzurri666 Time: 2'08.499 Disq: unverified
+PSN: Askorbiini Time: 2'09.563 Disq: green

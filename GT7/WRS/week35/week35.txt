@@ -1,0 +1,29 @@
+
+Week: 35
+Desc: Nismo Nazionale
+Car: Nissan GT-R Nismo '17
+Track: Autodromo Nazionale Monza - No Chicane
+Image: https://www.gtplanet.net/forum/media/autodromo-nazionale-monza-no-chicane__1-jpeg.133780/full
+Image: https://www.gtplanet.net/forum/media/autodromo-nazionale-monza-no-chicane__7-jpeg.133786/full
+Image: https://www.gtplanet.net/forum/media/the-colosseum__1-jpeg.133790/full
+Image: https://www.gtplanet.net/forum/media/autodromo-nazionale-monza-no-chicane__2-jpeg.133781/full
+Image: https://www.gtplanet.net/forum/media/autodromo-nazionale-monza-no-chicane__4-jpeg.133783/full
+Outfile: week35.out
+Statfile: week35.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+# deadline 12/12
+
+PSN: half_sourly Time: 1'43.196 Disq: green
+PSN: Hasnain282 Time: 1'43.706 Disq: green
+PSN: benjoi84 Time: 1'44.621 Disq: green
+PSN: GTP_Eggstor Time: 1'46.602 Disq: green
+PSN: JamCar0ne Time: 1'48.119 Disq: green
+PSN: GTP_Steven Time: 1'49.059 Disq: green

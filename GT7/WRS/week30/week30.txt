@@ -1,0 +1,30 @@
+
+Week: 30
+Desc: Low Speed Car, High Speed Ring
+Car: Maserati Merak SS '80
+Track: High Speed Ring
+Image: https://www.gtplanet.net/forum/media/20970599091968914-jpg.132897/full
+Image: https://www.gtplanet.net/forum/media/20970657724399744-jpg.132900/full
+Image: https://www.gtplanet.net/forum/media/20969966917917809-jpg.132901/full
+Image: https://www.gtplanet.net/forum/media/20970454736878461-jpg.132898/full
+Image: https://www.gtplanet.net/forum/media/20970728142226617-1-jpg.132902/full
+Outfile: week30.out
+Statfile: week30.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: GTP_McsQ Time: 1'30.336 Disq: green
+PSN: half_sourly Time: 1'31.265 Disq: green
+PSN: GTP_EDK Time: 1'31.293 Disq: green
+PSN: Hasnain282 Time: 1'31.456 Disq: green
+PSN: Nebuc72 Time: 1'31.495 Disq: unverified
+PSN: tmtkview Time: 1'31.564 Disq: green
+PSN: benjoi84 Time: 1'31.726 Disq: green
+PSN: GTP_Eggstor Time: 1'32.654 Disq: unverified

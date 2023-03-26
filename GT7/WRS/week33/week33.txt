@@ -1,0 +1,29 @@
+
+Week: 33
+Desc: Kuba in the X-Bow
+Car: KTM X-Bow R 2012
+Track: Tsukuba Circuit
+Image: https://www.gtplanet.net/forum/media/20970660892954913-jpg.133356/full
+Image: https://www.gtplanet.net/forum/media/20970497671953809-jpg.133355/full
+Image: https://www.gtplanet.net/forum/media/20970102281442939-jpg.133354/full
+Image: https://www.gtplanet.net/forum/media/20970979838206815-jpg.133357/full
+Image: https://www.gtplanet.net/forum/media/20969896248828321-jpg.133352/full
+Outfile: week33.out
+Statfile: week33.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: Hasnain282 Time: 1'00.421 Disq: green
+PSN: GTP_EDK Time: 1'00.578 Disq: green
+PSN: half_sourly Time: 1'00.662 Disq: green
+PSN: shoenboggie Time: 1'00.869 Disq: green
+PSN: benjoi84 Time: 1'01.044 Disq: green
+PSN: JamCar0ne Time: 1'01.557 Disq: green
+PSN: tmtkview Time: 1'01.681 Disq: unverified

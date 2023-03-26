@@ -1,0 +1,28 @@
+
+Week: 28
+Desc: NisSamba Super GT
+Car: Nissan GT-R Nismo GT500 '16
+Track: Autodromo de Interlagos
+Image: https://www.gtplanet.net/forum/attachments/28-top-side-jpeg.1200719/
+Image: https://www.gtplanet.net/forum/attachments/28-front-side-jpeg.1200714/
+Image: https://www.gtplanet.net/forum/attachments/28-side-far-jpeg.1200718/
+Image: https://www.gtplanet.net/forum/attachments/28-front-jpeg.1200715/
+Image: https://www.gtplanet.net/forum/attachments/28-rear-jpeg.1200716/
+Outfile: week28.out
+Statfile: week28.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: Hasnain282 Time: 1'22.910 Disq: green
+PSN: tmtkview Time: 1'22.933 Disq: green
+PSN: half_sourly Time: 1'23.431 Disq: green
+PSN: Nebuc72 Time: 1'23.689 Disq: green
+PSN: shoenboggie Time: 1'24.860 Disq: unverified
+PSN: GTP_Eggstor Time: 1'27.168 Disq: unverified
