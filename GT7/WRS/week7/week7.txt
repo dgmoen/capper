@@ -1,0 +1,37 @@
+
+Week: 7
+Desc: Taking the Merc for a Spin
+Car: Mercedes-AMG GT3 '16
+Track: Nurburgring GP
+Image: https://www.gtplanet.net/forum/media/20970680652312233-jpg.127427/full
+Image: https://www.gtplanet.net/forum/media/20969978918893623-jpg.127428/full
+Image: https://www.gtplanet.net/forum/media/20970190197862018-jpg.127425/full
+Image: https://www.gtplanet.net/forum/media/20970228470691338-jpg.127424/full
+Image: https://www.gtplanet.net/forum/media/20970022815076914-jpg.127423/full
+Outfile: week7.out
+Statfile: week7.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: MeisterFetz Time: 1'37.447 Disq: TimeError
+PSN: Hasnain282 Time: 1'54.432 Disq: green
+PSN: GTP_Animera Time: 1'54.465 Disq: green
+PSN: GTP_Jammy Time: 1'54.731 Disq: green
+PSN: Argon56 Time: 1'55.193 Disq: green
+PSN: boabdulrahman Time: 1'55.222 Disq: unverified
+PSN: tarnheld Time: 1'55.658 Disq: green
+PSN: RuddRacer Time: 1'55.938 Disq: unverified
+PSN: Sjokkomoes Time: 1'56.067 Disq: green
+PSN: colinnola Time: 1'56.245 Disq: unverified
+PSN: Munch2112 Time: 1'57.077 Disq: green
+PSN: JamCar0ne Time: 1'57.720 Disq: green
+PSN: DonNerazzurri666 Time: 1'58.688 Disq: green
+PSN: GTP_Eggstor Time: 1'59.009 Disq: unverified
+PSN: Allibubba99 Time: 1'59.086 Disq: unverified

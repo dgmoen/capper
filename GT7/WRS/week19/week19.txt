@@ -1,0 +1,31 @@
+
+Week: 19
+Desc: Lancer in the Rain
+Car: Mitsubishi Lancer Evolution Final '15
+Track: Tokyo Expressway - Central Clockwise
+Image: https://www.gtplanet.net/forum/media/20970359752190458-jpg.130311/full
+Image: https://www.gtplanet.net/forum/media/20970710524946334-jpg.130313/full
+Image: https://www.gtplanet.net/forum/media/20970783104090884-jpg.130314/full
+Image: https://www.gtplanet.net/forum/media/20970525511700539-jpg.130312/full
+Image: https://www.gtplanet.net/forum/media/20970937865446388-jpg.130316/full
+Outfile: week19.out
+Statfile: week19.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#temp auto adjust: scoot=-0.304, squeeze=4.776
+Squeeze: 4.00 # default 1.2
+Scoot: -0.25 # -0.10 
+
+PSN: shoenboggie Time: 1'34.517 Disq: unverified
+PSN: tarnheld Time: 1'34.584 Disq: unverified
+PSN: Hasnain282 Time: 1'34.647 Disq: green
+PSN: GTP_Eggstor Time: 1'34.746 Disq: green
+PSN: JamCar0ne Time: 1'36.510 Disq: green
+PSN: TRiP_Drifter Time: 1'37.312 Disq: unverified
+PSN: Gavens1976 Time: 1'39.858 Disq: unverified
+PSN: Askorbiini Time: 1'45.641 Disq: green

@@ -1,0 +1,44 @@
+
+Week: 6
+Desc: A Brand New Hot Hatch May Be Quicker
+Car: Radical SR3 SL '13
+Track: Brands Hatch Grand Prix Circuit
+Image: https://www.gtplanet.net/forum/media/20970139520606625-jpg.127174/full
+Image: https://www.gtplanet.net/forum/media/20970904744670430-jpg.127176/full
+Image: https://www.gtplanet.net/forum/media/20970425107503579-jpg.127177/full
+Image: https://www.gtplanet.net/forum/media/20969922557065963-jpg.127173/full
+Image: https://www.gtplanet.net/forum/media/20970001000220768-jpg.127182/full
+Outfile: week6.out
+Statfile: week6.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: Hasnain282 Time: 1'37.285 Disq: green
+PSN: GTP_Animera Time: 1'37.333 Disq: green
+PSN: mistersafeway Time: 1'37.409 Disq: green
+PSN: MeisterFetz Time: 1'37.447 Disq: green
+PSN: CnF_Pigems Time: 1'37.626 Disq: green
+PSN: GTP_billyjoebobx Time: 1'37.726 Disq: unverified
+PSN: boabdulrahman Time: 1'37.826 Disq: green
+PSN: RuddRacer Time: 1'38.203 Disq: green
+PSN: tarnheld Time: 1'38.324 Disq: green
+PSN: Chim_GT3 Time: 1'38.697 Disq: green
+PSN: shoenboggie Time: 1'38.784 Disq: unverified
+PSN: Sjokkomoes Time: 1'38.884 Disq: green
+PSN: colinnola Time: 1'39.410 Disq: green
+PSN: Munch2112 Time: 1'39.993 Disq: green
+PSN: Clemeson Time: 1'40.759 Disq: green
+PSN: GTP_DGiant2000 Time: 1'40.872 Disq: green
+PSN: JamCar0ne Time: 1'40.891 Disq: green
+PSN: GTP_Eggstor Time: 1'41.440 Disq: unverified
+PSN: DonNerazzurri666 Time: 1'42.168 Disq: unverified
+PSN: Nolakojo Time: 99'99.999 Disq: replay
+PSN: Manolnova Time: 99'99.999 Disq: replay
+

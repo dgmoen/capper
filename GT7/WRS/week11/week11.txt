@@ -1,0 +1,37 @@
+
+Week: 11
+Desc: C7 in GT7
+Car: Chevrolet Corvette C7 Gr.4
+Track: Daytona Road Course
+Image: https://www.gtplanet.net/forum/media/20970290353460990-jpg.128316/full
+Image: https://www.gtplanet.net/forum/media/20970439730511094-jpg.128317/full
+Image: https://www.gtplanet.net/forum/media/20970474820639868-jpg.128319/full
+Image: https://www.gtplanet.net/forum/media/20970129917162123-jpg.128321/full
+Image: https://www.gtplanet.net/forum/media/20970528733791422-jpg.128322/full
+Outfile: week11.out
+Statfile: week11.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: iiHarmonic Time: 1'49.858 Disq: green
+PSN: GTP_Jammy Time: 1'50.254 Disq: green
+PSN: Hasnain282 Time: 1'50.488 Disq: green
+PSN: RuddRacer Time: 1'50.491 Disq: green
+PSN: tmtkview Time: 1'50.855 Disq: green
+PSN: boabdulrahman Time: 1'51.077 Disq: unverified
+PSN: Chim_GT3 Time: 1'51.083 Disq: green
+PSN: colinnola Time: 1'51.458 Disq: unverified
+PSN: Clemeson Time: 1'51.906 Disq: green
+PSN: shoenboggie Time: 1'51.916 Disq: unverified
+PSN: Allibubba99 Time: 1'52.164 Disq: green
+PSN: JamCar0ne Time: 1'52.403 Disq: green
+PSN: GTP_Eggstor Time: 1'52.914 Disq: green
+PSN: DonNerazzurri666 Time: 1'53.428 Disq: unverified
+

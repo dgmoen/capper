@@ -1,0 +1,4 @@
+REPORT:
+Outfile: promo.out
+Event_Status: Final
+

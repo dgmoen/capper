@@ -1,0 +1,23 @@
+1. add new entries to registry; name changes
+2. cd lastweek
+3. cp weekX.txt weekXp.txt
+4. update final/verify for weekX.txt
+5. cd ..
+6. make weekX+1.txt
+---
+7. capper registry7.txt 
+8. cd weekX
+9. capper weekX.txt
+10. cd ..
+11. capper weekX/weekX.txt
+12. mv weekX* archive
+13. capper weekX+1.txt
+14. mv weekX+1.* weekX+1
+15. cp gt7wrs.wdb weekX+1
+16. capper report.txt 
+17. capper registry7.txt 
+---
+18. update/finalize weekX post
+19. post weekX+1.out
+20. announce promotions/new registrations
+21. update registry

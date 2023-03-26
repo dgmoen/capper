@@ -1,0 +1,34 @@
+
+Week: 18
+Desc: SUPRAMAN Revisited
+Car: Toyota GR Supra Racing Car '19
+Track: Trial Mountain
+Image: https://www.gtplanet.net/forum/media/trial-mountain-circuit__18-jpeg.129534/full
+Image: https://www.gtplanet.net/forum/media/trial-mountain-circuit__6-jpeg.129522/full
+Image: https://www.gtplanet.net/forum/media/trial-mountain-circuit__4-jpeg.129520/full
+Image: https://www.gtplanet.net/forum/media/trial-mountain-circuit__17-jpeg.129533/full
+Image: https://www.gtplanet.net/forum/media/trial-mountain-circuit__15-jpeg.129531/full
+Outfile: week18.out
+Statfile: week18.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: Hasnain282 Time: 1'57.102 Disq: unverified
+PSN: Mysteron71 Time: 1'57.763 Disq: green
+PSN: Nebuc72 Time: 1'58.068 Disq: green
+PSN: RuddRacer Time: 1'58.861 Disq: green
+PSN: half_sourly Time: 1'58.936 Disq: green
+PSN: GTP_Eggstor Time: 1'59.905 Disq: green
+PSN: BlazinDragon Time: 2'00.428 Disq: unverified
+PSN: Allibubba99 Time: 2'00.473 Disq: green
+PSN: TRiP_Drifter Time: 2'02.665 Disq: unverified
+PSN: stibbz Time: 2'03.630 Disq: green
+PSN: Askorbiini Time: 2'04.433 Disq: green
+PSN: DonNerazzurri666 Time: 2'05.237 Disq: unverified

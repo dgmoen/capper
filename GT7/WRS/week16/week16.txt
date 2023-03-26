@@ -1,0 +1,39 @@
+
+Week: 16
+Desc: Kyoto Your Enthusiasm
+Car: Honda Civic (FK8) Type R 2020
+Track: Kyoto Driving Park - Yamagiwa
+Image: https://www.gtplanet.net/forum/media/20969960939727266-jpg.129627/full
+Image: https://www.gtplanet.net/forum/media/20969907352495334-jpg.129628/full
+Image: https://www.gtplanet.net/forum/media/20970328925131874-jpg.129631/full
+Image: https://www.gtplanet.net/forum/media/20970291114110427-jpg.129629/full
+Image: https://www.gtplanet.net/forum/media/20970900393592345-jpg.129626/full
+Outfile: week16.out
+Statfile: week16.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: Mysteron71 Time: 1'49.262 Disq: green
+PSN: Hasnain282 Time: 1'49.641 Disq: green
+PSN: RuddRacer Time: 1'49.999 Disq: green
+PSN: boabdulrahman Time: 1'50.259 Disq: green
+PSN: BlazinDragon Time: 1'50.484 Disq: unverified
+PSN: tarnheld Time: 1'50.736 Disq: green
+PSN: half_sourly Time: 1'51.634 Disq: green
+PSN: shoenboggie Time: 1'52.145 Disq: unverified
+PSN: JamCar0ne Time: 1'52.510 Disq: green
+PSN: stibbz Time: 1'53.045 Disq: green
+PSN: GTP_Eggstor Time: 1'53.818 Disq: green
+PSN: DonNerazzurri666 Time: 1'54.264 Disq: unverified
+PSN: GTP_Steven Time: 1'55.594 Disq: unverified
+PSN: Flatliner303 Time: 1'55.935 Disq: unverified
+PSN: Askorbiini Time: 1'56.656 Disq: green
+PSN: Chim_GT3 Time: 99'99.999 Disq: offtrack
+

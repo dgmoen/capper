@@ -1,0 +1,35 @@
+
+Week: 14
+Desc: Deep in the Forest of Oversteer
+Car: BMW M3 '03
+Track: Deep Forest Raceway
+Image: https://www.gtplanet.net/forum/media/20970742139253995-jpg.129122/full
+Image: https://www.gtplanet.net/forum/media/20970237941990991-jpg.129123/full
+Image: https://www.gtplanet.net/forum/media/20970688597420259-jpg.129121/full
+Image: https://www.gtplanet.net/forum/media/20969912949684963-jpg.129118/full
+Image: https://www.gtplanet.net/forum/media/20970348312196029-jpg.129124/full
+Outfile: week14.out
+Statfile: week14.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: Hasnain282 Time: 1'41.381 Disq: green
+PSN: GTP_Jammy Time: 1'41.429 Disq: green
+PSN: Chim_GT3 Time: 1'42.868 Disq: green
+PSN: RuddRacer Time: 1'42.996 Disq: green
+PSN: shoenboggie Time: 1'43.235 Disq: unverified
+PSN: half_sourly Time: 1'43.367 Disq: green
+PSN: colinnola Time: 1'43.513 Disq: unverified
+PSN: JamCar0ne Time: 1'43.823 Disq: unverified
+PSN: GTP_Eggstor Time: 1'44.793 Disq: green
+PSN: stibbz Time: 1'44.883 Disq: green
+PSN: GTP_DGiant2000 Time: 1'45.156 Disq: unverified
+PSN: DonNerazzurri666 Time: 1'47.085 Disq: unverified
+

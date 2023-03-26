@@ -1,0 +1,39 @@
+
+Week: 10
+Desc: Lake Sainte-Croix
+Car: Peugeot RCZ Gr.3 Road Car
+Track: Circuit de Sainte-Croix - Layout B
+Image: https://www.gtplanet.net/forum/media/circuit-de-sainte-croix-b__12-jpeg.128044/full
+Image: https://www.gtplanet.net/forum/media/circuit-de-sainte-croix-b__15-jpeg.128047/full
+Image: https://www.gtplanet.net/forum/media/circuit-de-sainte-croix-b__10-jpeg.128042/full
+Image: https://www.gtplanet.net/forum/media/circuit-de-sainte-croix-b__20-jpeg.128052/full
+Image: https://www.gtplanet.net/forum/media/circuit-de-sainte-croix-b__8-jpeg.128040/full
+Outfile: week10.out
+Statfile: week10.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: Hasnain282 Time: 2'27.843 Disq: green
+PSN: Rampuss Time: 2'28.888 Disq: green
+PSN: Chim_GT3 Time: 2'29.498 Disq: green
+PSN: RuddRacer Time: 2'29.629 Disq: green
+PSN: tarnheld Time: 2'29.687 Disq: green
+PSN: boabdulrahman Time: 2'30.177 Disq: unverified
+PSN: shoenboggie Time: 2'30.785 Disq: unverified
+PSN: colinnola Time: 2'31.238 Disq: unverified
+PSN: stann_oz66 Time: 2'31.460 Disq: green
+PSN: JamCar0ne Time: 2'31.470 Disq: green
+PSN: tmtkview Time: 2'31.955 Disq: green
+PSN: GTP_DGiant2000 Time: 2'31.979 Disq: unverified
+PSN: Clemeson Time: 2'31.984 Disq: green
+PSN: Allibubba99 Time: 2'33.263 Disq: unverified
+PSN: GTP_Eggstor Time: 2'33.591 Disq: unverified
+PSN: DonNerazzurri666 Time: 2'33.637 Disq: unverified
+

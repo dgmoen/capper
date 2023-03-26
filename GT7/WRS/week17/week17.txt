@@ -1,0 +1,35 @@
+
+Week: 17
+Desc: And Now For Something Completely Different!
+Car: Gran Turismo Racing Kart 125 Shifter
+Track: Autodrome Lago Maggiore - West end
+Image: https://www.gtplanet.net/forum/media/autodrome-lago-maggiore-west-end_-jpeg.128723/full
+Image: https://www.gtplanet.net/forum/media/autodrome-lago-maggiore-west-end__2-jpeg.128725/full
+Image: https://www.gtplanet.net/forum/media/autodrome-lago-maggiore-west-end__3-jpeg.128726/full
+Image: https://www.gtplanet.net/forum/media/autodrome-lago-maggiore-west-end__5-jpeg.128728/full
+Image: https://www.gtplanet.net/forum/media/autodrome-lago-maggiore-west-end__9-jpeg.128732/full
+Outfile: week17.out
+Statfile: week17.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: tarnheld Time: 0'58.496 Disq: green
+PSN: mistersafeway Time: 0'58.597 Disq: green
+PSN: half_sourly Time: 0'58.729 Disq: green
+PSN: Hasnain282 Time: 0'58.739 Disq: green
+PSN: Chim_GT3 Time: 0'58.880 Disq: green
+PSN: RuddRacer Time: 0'59.085 Disq: unverified
+PSN: GTP_Eggstor Time: 0'59.510 Disq: green
+PSN: Allibubba99 Time: 0'59.678 Disq: green
+PSN: BlazinDragon Time: 0'59.822 Disq: green
+PSN: JamCar0ne Time: 0'59.894 Disq: unverified
+PSN: TRiP_Drifter Time: 1'00.248 Disq: unverified
+PSN: stibbz Time: 1'00.372 Disq: unverified
+PSN: Gavens1976 Time: 1'04.997 Disq: green

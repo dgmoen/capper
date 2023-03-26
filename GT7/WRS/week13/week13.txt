@@ -1,0 +1,37 @@
+
+Week: 13
+Desc: GENESIS at The Glen
+Car: Genesis X Gr3
+Track: Watkins Glen - Long Course
+Image: https://www.gtplanet.net/forum/media/watkins-glen-long-course__9-jpeg.128722/full
+Image: https://www.gtplanet.net/forum/media/watkins-glen-long-course__2-jpeg.128715/full
+Image: https://www.gtplanet.net/forum/media/watkins-glen-long-course_-jpeg.128713/full
+Image: https://www.gtplanet.net/forum/media/watkins-glen-long-course__3-jpeg.128716/full
+Image: https://www.gtplanet.net/forum/media/watkins-glen-long-course__7-jpeg.128720/full
+Outfile: week13.out
+Statfile: week13.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: Hasnain282 Time: 1'44.511 Disq: green
+PSN: GTP_Sphinx Time: 1'44.757 Disq: green
+PSN: GTP_Jammy Time: 1'44.835 Disq: unverified
+PSN: boabdulrahman Time: 1'44.853 Disq: green
+PSN: mistersafeway Time: 1'44.971 Disq: unverified
+PSN: tarnheld Time: 1'45.470 Disq: green
+PSN: stann_oz66 Time: 1'45.731 Disq: green
+PSN: RuddRacer Time: 1'45.969 Disq: green
+PSN: JamCar0ne Time: 1'46.035 Disq: green
+PSN: shoenboggie Time: 1'46.668 Disq: unverified
+PSN: GTP_Eggstor Time: 1'46.871 Disq: green
+PSN: GTP_Steven Time: 1'48.874 Disq: green
+PSN: DonNerazzurri666 Time: 1'49.608 Disq: green
+PSN: Rampuss Time: 99'99.999 Disq: replay
+

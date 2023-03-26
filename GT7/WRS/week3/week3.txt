@@ -1,0 +1,39 @@
+
+Week: 3
+Desc: Hitching Home
+Car: Alfa Romeo 4C Gr.3
+Track: Autodrome Lago Maggiorre - Full Course
+Image: https://www.gtplanet.net/forum/attachments/1d3960eca7b58c8fb950930302593092_photo-jpg.1140283/
+Image: https://www.gtplanet.net/forum/attachments/54c6070924d65a7dd08d3255f928a2be_photo-jpg.1140285/
+Image: https://www.gtplanet.net/forum/attachments/afea27eed59b70678b7b27aa3f8e8d69_photo-jpg.1140287/
+Image: https://www.gtplanet.net/forum/attachments/0a4be42587c8125d5a0ad0a5a95ade4e_photo-jpg.1140282/
+Image: https://www.gtplanet.net/forum/attachments/361d8bebb61fc3015de3c2d2a719e8ef_photo-jpg.1140286/
+Outfile: week3.out
+Statfile: week3.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: TPC_Gooners Time: 1'55.952 Disq: green
+PSN: Hasnain282 Time: 1'55.960 Disq: green
+PSN: GTP_Animera Time: 1'56.076 Disq: green
+PSN: shoenboggie Time: 1'56.731 Disq: green
+PSN: RuddRacer Time: 1'56.737 Disq: green
+PSN: tarnheld Time: 1'57.585 Disq: green
+PSN: colinnola Time: 1'57.677 Disq: green
+PSN: GTP_tzracer Time: 1'58.040 Disq: green
+PSN: Munch2112 Time: 1'58.172 Disq: green
+PSN: mrmattsly Time: 1'58.189 Disq: green
+PSN: Ruzinvincible Time: 1'58.208 Disq: green
+PSN: GTP_DGiant2000 Time: 1'58.383 Disq: green
+PSN: JamCar0ne Time: 1'58.770 Disq: green
+PSN: Allibubba99 Time: 1'59.060 Disq: green
+PSN: GTP_Eggstor Time: 1'59.889 Disq: green
+PSN: DonNerazzurri666 Time: 2'00.074 Disq: green
+

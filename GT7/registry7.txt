@@ -1,0 +1,1555 @@
+# GT7 WRS registry 12/4/17
+Week: 0
+Car: TBD
+Track: TBD
+Description: GTSport WRS Registry
+Outfile: registry7.out
+Statfile: registry7.stat
+#Shape: standard # default flat, other options: standard, double, multiple
+#Shape: double # default flat, other options: standard, double, multiple
+Shape: custom -0.5 0.0 1.0 3.00 5.0 14.0 
+#Gold_shift: -0.2 -0.05 0.0 -0.05 -0.20 -0.15
+Gold_shift: -0.05 -0.05 0.05 -0.05 -0.25 
+Squeeze: 1.00 # default 1.2
+Scoot: 0.00 # default 0.0
+Weight: 2.0 # was 4.0
+Event_Status: provisional
+
+## Week 01 ## 31 Dec 2013 ##
+User: "poolhaas" PSN: "GTP_poolhaas" Country: "Belgium" Status: rookie
+User: "ernestone" PSN: "ernestone" Country: "Spain" Status: rookie
+User: "Speedy6543" PSN: "Speedy6543" Country: "Belgium" Status: rookie
+User: "goa2goa" PSN: "GTP_Goa" Country: "Denmark" Status: rookie
+User: "dsgerbc" PSN: "dsgerbc" Country: "USA" Status: rookie
+User: "Hyper-Dan" PSN: "GTP_Hyper-Dan" Country: "UK" Status: rookie
+User: "Animera" PSN: "GTP_Animera" Country: "New Zealand" Status: rookie
+User: "MilleRSVR" PSN: "GTP_MilleRSVR" Country: "USA" Status: rookie
+User: "btcanon" PSN: "btcanon" Country: "USA" Status: rookie
+User: "Invictus321" PSN: "Invictus321" Country: "Australia" Status: rookie
+User: "dadarjapit" PSN: "dadarjapit" Country: "Australia" Status: rookie
+User: "crowhop" PSN: "GTP_crowhop" Country: "USA" Status: rookie
+#User: "GTP_GDS" PSN: "GTP_GDS" Country: "USA" Status: rookie
+User: "Windy_1238" PSN: "Windy_1238" Country: "USA" Status: rookie #GTP_GDS
+User: "ThrasherDBS" PSN: "ThrasherDBS" Country: "USA" Status: rookie
+User: "gazleton" PSN: "GTP_gruk" Country: "UK" Status: rookie
+User: "NielsG" PSN: "GTP_NielsG2" Country: "Denmark" Status: rookie
+User: "JCleveland" PSN: "joshcleveland" Country: "USA" Status: rookie
+User: "ajarych" PSN: "ajarych" Country: "UK" Status: rookie
+User: "Tavilha" PSN: "Tavilha" Country: "Portugal" Status: rookie
+User: "BanditKarter22" PSN: "GTP_BanditKarter" Country: "UK" Status: rookie
+User: "Gravitron" PSN: "GTP_Gravitron" Country: "USA" Status: rookie
+User: "Barra333" PSN: "barra333" Country: "Australia" Status: rookie
+User: "Dean" PSN: "GTP_DeanJ" Country: "Denmark" Status: rookie
+User: "TuZan" PSN: "ZiSong" Country: "Malaysia" Status: rookie
+User: "hasslemoff" PSN: "GTP_Hasslemoff" Country: "England" Status: rookie
+User: "walkerf5e" PSN: "DesdaMOONmanQ" Country: "USA" Status: rookie
+User: "Twissy" PSN: "GTP_Twissy" Country: "U.K" Status: rookie
+User: "sickdog2009" PSN: "sickdog2009" Country: "UK" Status: rookie
+User: "G_Parrilla" PSN: "G_Parrilla" Country: "Argentina" Status: rookie
+User: "Steve Justice" PSN: "Steve_Justice" Country: "USA" Status: rookie
+User: "TL8705" PSN: "TL8705" Country: "CANADA" Status: rookie
+User: "HeelToer" PSN: "HeelToer" Country: "Japan" Status: rookie
+User: "rambo793" PSN: "rambo793" Country: "India" Status: rookie
+User: "DaGiBUS" PSN: "BlueXephos22" Country: "Australia" Status: rookie
+User: "manumanu19" PSN: "GTP_Mamba" Country: "Kenya" Status: rookie
+User: "DeerL" PSN: "GTP_DeerL" Country: "UK" Status: rookie
+User: "John_Mono" PSN: "John_Mono" Country: "UK" Status: rookie
+User: "RalliArt/////" PSN: "GTP_firstmivec" Country: "Ireland" Status: rookie
+User: "skyline1683" PSN: "GTP_SKYLINE" Country: "UK" Status: rookie
+User: "mike_gt3" PSN: "Mike_Peperni" Country: "CANADA" Status: rookie
+User: "OnlyMe" PSN: "GTP_OnlyMe" Country: "Belgium" Status: rookie
+User: "Vagabond" PSN: "GTP_Vagabond" Country: "UK" Status: rookie
+User: "minimalist" PSN: "GTP_CrustyA" Country: "USA" Status: rookie
+User: "jtv90069" PSN: "GTP_JTV" Country: "Australia" Status: rookie
+User: "gokhanbilgin" PSN: "gokhanbilgin" Country: "Turkey" Status: rookie
+User: "Vince_Fiero" PSN: "GTP_Vince_Fiero" Country: "BEL" Status: rookie
+User: "Cats_PJs" PSN: "GTP_Eternal" Country: "USA" Status: rookie
+User: "Stotty" PSN: "GTP_Stotty" Country: "UK" Status: rookie
+User: "Manuelos" PSN: "GTP_Manuelos" Country: "Belgium" Status: rookie
+User: "iainoflo85" PSN: "GTP_iainoflo" Country: "Scotland" Status: rookie
+User: "Tomas Hladik" PSN: "hladas" Country: "Czech Republik" Status: rookie
+User: "Argon" PSN: "Argon56" Country: "UK" Status: rookie
+User: "bocowes" PSN: "bocowes" Country: "UK" Status: rookie
+User: "suprtrukr425" PSN: "GTP_suprtrukr425" Country: "USA" Status: rookie
+User: "unitedstomper" PSN: "unitedstomper" Country: "UK" Status: rookie
+User: "NINE_HUNDRED" PSN: "GTP_NINE_HUNDRED" Country: "UK" Status: rookie
+User: "Eggstor" PSN: "GTP_Eggstor" Country: "US" Status: rookie
+User: "SDLocked" PSN: "SDLocked" Country: "BRA" Status: rookie
+User: "Darkstar_74" PSN: "Gtp_Darkstar74" Country: "Canada" Status: rookie
+User: "otxjto" PSN: "GTP_otxjto" Country: "USA" Status: rookie
+User: "Arianrhod" PSN: "GTP_Arianrhod" Country: "Wales" Status: rookie
+User: "Zapphoid" PSN: "GTP_Zapphoid" Country: "AUS" Status: rookie
+User: "viper84" PSN: "GTP_viper84" Country: "Germany" Status: rookie
+User: "E RaK" PSN: "esr686" Country: "USA" Status: rookie
+User: "Killermiller24" PSN: "akz24" Country: "Switzerland" Status: rookie
+User: "jammy21" PSN: "GTP_Jammy" Country: "Finland" Status: rookie
+User: "Racingworld68" PSN: "GTP_Frank" Country: "BELGIUM" Status: rookie
+User: "gm matthew" PSN: "GTP_gmmatthew" Country: "UK" Status: rookie
+User: "mclarenf176" PSN: "GTP_mclaren" Country: "DK" Status: rookie
+User: "Xx_Xerneas_xX" PSN: "superdi98" Country: "Portugal" Status: rookie
+User: "Justin" PSN: "Northstar3914" Country: "USA" Status: rookie
+User: "Tuesday_Black" PSN: "Tuesday_black" Country: "Netherlands" Status: rookie
+User: "ginjaninja" PSN: "ginjaninja555" Country: "UK" Status: rookie
+User: "Drax Carter" PSN: "Drax_Carter" Country: "Australia" Status: rookie
+User: "lapierre4" PSN: "lapierre4" Country: "Canada" Status: rookie
+User: "Fordguy1997" PSN: "fordguy1997" Country: "USA" Status: rookie
+User: "Bodyguard" PSN: "xX-nilo-Xx" Country: "UAE" Status: rookie
+User: "roamer2629" PSN: "GTP_Roamer2629" Country: "Argentina" Status: rookie
+## Week 02 ## 6 Jan 2014 ##
+User: "Brinomial" PSN: "brinomial" Country: "Canada" Status: rookie
+User: "GTP_Ezza75" PSN: "GTP_Ezza75" Country: "Australia" Status: rookie
+User: "Enex" PSN: "Enex__" Country: "Italy" Status: rookie
+User: "Crispy74" PSN: "GTP_Crispy74" Country: "United Kingdom" Status: rookie
+User: "GTP_CargoRatt" PSN: "GTP_CargoRatt" Country: "USA" Status: rookie
+User: "elrousso" PSN: "rousso82" Country: "Canada" Status: rookie
+User: "PASM" PSN: "GTP_PASM" Country: "The Netherlands" Status: rookie
+User: "GTP_Zharox" PSN: "GTP_Zharox" Country: "Belgium" Status: rookie
+User: "dhandeh" PSN: "dhandes" Country: "UK" Status: rookie
+User: "Pipiroku" PSN: "Pipiroku" Country: "UK" Status: rookie
+User: "gtpcaine" PSN: "GTP_Caine" Country: "UK" Status: rookie
+User: "R1RoLLER" PSN: "EYE-RoLLER" Country: "Sweden" Status: rookie
+User: "ParasID" PSN: "paras97" Country: "UK" Status: rookie
+User: "hessi" PSN: "GTP_hessi" Country: "Germany" Status: rookie
+User: "Turok134" PSN: "Turok-134-" Country: "Romania" Status: rookie
+User: "GTP_Patrick1" PSN: "GTP_Patrick1" Country: "USA" Status: rookie
+User: "KWZX10" PSN: "KWZX10" Country: "Italy" Status: rookie
+User: "gears_1000" PSN: "gears1000" Country: "CAN" Status: rookie
+User: "ohitsyoubob" PSN: "GTP_ohitsyoubob" Country: "USA" Status: rookie
+User: "munch2112" PSN: "Munch2112" Country: "UK" Status: rookie
+User: "tka_tha" PSN: "IRT_tka_tha" Country: "Saudi Arabia" Status: rookie
+User: "Sparkz_360" PSN: "Sparkz720_" Country: "UK" Status: rookie
+User: "Allibubba99" PSN: "Allibubba99" Country: "Canada" Status: rookie
+User: "nzo278" PSN: "nzo278" Country: "US" Status: rookie
+User: "Doodle" PSN: "DoodleAM" Country: "USA" Status: rookie
+User: "Shlagem" PSN: "Shlagem" Country: "Lebanon" Status: rookie
+User: "newbsta" PSN: "GTP_nicnew" Country: "Australia" Status: rookie
+User: "GT_COL" PSN: "GT_COL" Country: "AUSTRALIA" Status: rookie
+User: "ConRollins" PSN: "GTP_ConRollins" Country: "USA" Status: rookie
+User: "rcdagoe" PSN: "rcdagoe" Country: "United States" Status: rookie
+User: "w-g-e" PSN: "GTP_w-g-e" Country: "NL" Status: rookie
+User: "ad_86" PSN: "aaron190286" Country: "Ireland" Status: rookie
+User: "Stephen Vann" PSN: "LOGICLINE" Country: "Uk" Status: rookie
+User: "LewyMan" PSN: "Heyagarn" Country: "AUS" Status: rookie
+User: "Trux" PSN: "GTP_Trux" Country: "UK" Status: rookie
+User: "Kessil" PSN: "Kessil" Country: "USA" Status: rookie
+User: "zzz_pt" PSN: "zzz_pt" Country: "Portugal" Status: rookie
+User: "ME71" PSN: "Monster-Energy71" Country: "Canada" Status: rookie
+User: "Makarov9592" PSN: "Makarov9592" Country: "AUS" Status: rookie
+User: "Stevious" PSN: "Stevious" Country: "AUSTRALIA" Status: rookie
+User: "Sjaak" PSN: "GTP_Sjaak" Country: "The Netherlands" Status: rookie
+User: "survey91" PSN: "survey91" Country: "Canada" Status: rookie
+User: "iSidious" PSN: "GTP_Coupe" Country: "UK" Status: rookie
+User: "Daniel Pinho" PSN: "dpinho1975" Country: "Brazil" Status: rookie
+User: "Im_Lukas" PSN: "GTP_Lukas" Country: "UK" Status: rookie
+User: "kreezydoed" PSN: "GTP_Kreezydoed" Country: "Belgium" Status: rookie
+User: "GTP_Deathstar" PSN: "GTP_Deathstar" Country: "USA" Status: rookie
+User: "Backler" PSN: "Backler" Country: "UK" Status: rookie
+User: "GTP_RaceRyder" PSN: "GTP_RaceRyder" Country: "USA" Status: rookie
+User: "Deton" PSN: "nyyppa" Country: "Finland" Status: rookie
+User: "Nish" PSN: "GTP_NishRacer" Country: "Canada" Status: rookie
+User: "El zoomer" PSN: "GTP_Elzoomer" Country: "Canada" Status: rookie
+User: "Zuel" PSN: "GTP_Striker" Country: "USA" Status: rookie
+User: "CB750Kguy" PSN: "GTP_TBoat" Country: "USA" Status: rookie
+User: "Turbo_snail" PSN: "GTP_TurboSnail" Country: "Australia" Status: rookie
+User: "MrWhite1972" PSN: "MrWhite1972" Country: "UK" Status: rookie
+User: "Friday_GTRP" PSN: "Friday_GTRP" Country: "The Netherlands" Status: rookie
+User: "Flaren89" PSN: "Flaren89" Country: "ITA" Status: rookie
+User: "Siggers" PSN: "GTP_Sig" Country: "UK" Status: rookie
+User: "sped1966" PSN: "GTP_sped66" Country: "USA" Status: rookie
+User: "DTM" PSN: "GTP_DTM" Country: "Netherlands" Status: rookie
+User: "Don Mejillone" PSN: "Don-Mejillone" Country: "NL" Status: rookie
+User: "mysrob" PSN: "mysrob" Country: "Poland" Status: rookie
+User: "Xelyno" PSN: "Xelyno" Country: "Belgium" Status: rookie
+User: "Need4Speed685" PSN: "Need4Speed685" Country: "Australia" Status: rookie
+User: "Hottracer88" PSN: "hottracer88" Country: "United States" Status: rookie
+User: "C-ZETA" PSN: "V16T91" Country: "England" Status: rookie
+User: "haansen" PSN: "haansen82" Country: "Germany" Status: rookie
+User: "Intercpt" PSN: "Intercpt" Country: "AUS" Status: rookie
+User: "Carlos Fandango" PSN: "GTP_CarlosF" Country: "UK" Status: rookie
+User: "doctsuru_69" PSN: "ma19n6ny9" Country: "Philippines" Status: rookie
+User: "ollie57" PSN: "GTP_ollie57" Country: "UK" Status: rookie
+User: "LittlePaul78" PSN: "GTP_LittlePaul" Country: "UK" Status: rookie
+User: "Fastas" PSN: "GTP_Fastas____" Country: "UK" Status: rookie
+User: "RoeszaGT" PSN: "RoeszaGT" Country: "Netherlands" Status: rookie
+User: "RobertSamuel" PSN: "robert_samuel94" Country: "NL" Status: rookie
+User: "miata13B" PSN: "Somebodyshootme" Country: "USA" Status: rookie
+User: "nursemorph" PSN: "nursemorph" Country: "UK" Status: rookie
+User: "mattcaney" PSN: "mattcaney" Country: "UK" Status: rookie
+User: "RoadRunner99" PSN: "GTP_2299" Country: "Italy" Status: rookie
+User: "reiwon32" PSN: "GTP_reiwon32" Country: "Mexico" Status: rookie
+User: "brettcee" PSN: "brettcee" Country: "USA" Status: rookie
+User: "Napalm_LT" PSN: "Napalm_LT" Country: "UK" Status: rookie
+User: "Rikson" PSN: "GTP_Rikson" Country: "Holland" Status: rookie
+User: "alsharif1" PSN: "irt_MrG" Country: "Saudi Arabia" Status: rookie
+User: "iCyCo" PSN: "iCyCo" Country: "Barbados" Status: rookie
+User: "Grand Prix" PSN: "GTP_Grand_Prix" Country: "Canada" Status: rookie
+User: "luv2drive" PSN: "GTP_luv2drive" Country: "USA" Status: rookie
+User: "KTR5" PSN: "CoachMK21" Country: "USA" Status: rookie
+User: "KookiDowg" PSN: "GTP_KookiDowg" Country: "USA" Status: rookie
+User: "VentureDenny" PSN: "GTP_phantom" Country: "USA" Status: rookie
+User: "snowgt" PSN: "GTP_SnowCrash" Country: "Austria" Status: rookie
+User: "X3rx3s44" PSN: "X3rx3s44" Country: "Australia" Status: rookie
+User: "Rad E. Cool" PSN: "Rad_E_Cool" Country: "Australia" Status: rookie
+User: "Duke of Pendle" PSN: "GTP_DukeOfPendle" Country: "UK" Status: rookie
+User: "SVT Cobra GT" PSN: "SVTlover" Country: "UK" Status: rookie
+User: "boediebouer" PSN: "GTP_wayna" Country: "South Africa" Status: rookie
+User: "Mark_S" PSN: "Mark_Sebo" Country: "UK" Status: rookie
+User: "Milross" PSN: "NoveltyHuman" Country: "UK" Status: rookie
+User: "Kalem" PSN: "Ktrain186" Country: "Australia" Status: rookie
+User: "AndRace" PSN: "And_Race" Country: "The Netherlands" Status: rookie
+User: "GTP_clock" PSN: "GTP_clock" Country: "Australia" Status: rookie
+User: "gossetjm" PSN: "frman91" Country: "FRANCE" Status: rookie
+User: "GTPGhost" PSN: "TRL_GhostDriver" Country: "UK" Status: rookie
+User: "Airsick" PSN: "GTP_Airsick" Country: "USA" Status: rookie
+User: "in4apenny" PSN: "in4apenny" Country: "UK" Status: rookie
+User: "wotzit07" PSN: "GTP_wotzit07" Country: "UK" Status: rookie
+User: "GTPorsche" PSN: "GTP_orsche" Country: "USA" Status: rookie
+User: "Sir_Flynn" PSN: "sir_flynn" Country: "England" Status: rookie
+User: "IvanKapsic65" PSN: "GT-Racing-cz_IZ" Country: "CZ" Status: rookie
+User: "gtp_vida" PSN: "vida_cz" Country: "CZECH" Status: rookie
+User: "cerebalvortex" PSN: "cerebalvortex" Country: "BELGIUM" Status: rookie
+User: "jimipitbull" PSN: "jimipitbull" Country: "Australia" Status: rookie
+User: "n0iZe83" PSN: "GTP_n0iZe" Country: "Italy" Status: rookie
+User: "Nick Skyline" PSN: "The1NickSkyline" Country: "Canada" Status: rookie
+User: "Dano20" PSN: "GTP_Dano89" Country: "UK" Status: rookie
+User: "CTznOfTime" PSN: "GTP_MooCow" Country: "USA" Status: rookie
+User: "Sarkazmo" PSN: "Sarkazmo" Country: "USA" Status: rookie
+User: "GTP_SkyBridge" PSN: "GTP_SkyBridge" Country: "Sweden" Status: rookie
+User: "MadMax" PSN: "GTP_MadMax" Country: "Finland" Status: rookie
+User: "RacingOtaku86" PSN: "RacingOtaku86" Country: "Canada" Status: rookie
+User: "Youngun" PSN: "youngun_great" Country: "England" Status: rookie
+User: "Tidgney" PSN: "GTP_Tidgney" Country: "UK" Status: rookie
+User: "markoduno" PSN: "GT-Racing-cz_MK" Country: "CZ" Status: rookie
+User: "fluegelmann" PSN: "TzWfBc" Country: "Germany" Status: rookie
+User: "Liamsles" PSN: "Liamsles" Country: "UK" Status: rookie
+User: "billyjoebobx" PSN: "GTP_billyjoebobx" Country: "USA" Status: rookie
+User: "the_wilco" PSN: "GTP_the_wilco" Country: "UK" Status: rookie
+User: "Flyinjake" PSN: "FlyinJake" Country: "Denmark" Status: rookie
+User: "ITCC_Andrew" PSN: "MrMelancholy15" Country: "Canada" Status: rookie
+User: "ThaSyn" PSN: "ThaSyn" Country: "Belgium" Status: rookie
+User: "Serialf" PSN: "SERIALF" Country: "Portugal" Status: rookie
+User: "Sven Coryn" PSN: "punksweets" Country: "Belgium" Status: rookie
+## Week 03 ## 13 Jan 2014 ##
+User: "fowlkore" PSN: "GTP_fowlkore" Country: "US" Status: rookie
+User: "Franjo" PSN: "franjoballs" Country: "Canada" Status: rookie
+User: "tnt_8_9" PSN: "GTP_tnt89" Country: "UK" Status: rookie
+User: "Usual Suspect" PSN: "GTP_UsualSuspect" Country: "Portugal" Status: rookie
+User: "LeftyWright69" PSN: "GTP_LeftyWright" Country: "USA" Status: rookie
+User: "FerrariF1GT" PSN: "FerrariF1GT" Country: "United States" Status: rookie
+User: "Johansen" PSN: "hesias" Country: "Denmark" Status: rookie
+User: "A7XMaverick" PSN: "A7XMaverick" Country: "USA" Status: rookie
+User: "EDK" PSN: "GTP_EDK" Country: "USA" Status: rookie
+User: "Bleached" PSN: "GTP_Vipond" Country: "USA" Status: rookie
+User: "AspecBob" PSN: "GTP_AspecBob" Country: "Canada" Status: rookie
+User: "mohitraina91" PSN: "TPC_Gooners" Country: "Canada" Status: rookie
+User: "GTP_Remo" PSN: "remo_of_oz" Country: "USA" Status: rookie
+User: "zippy_the_cat" PSN: "GTP_ZippyCat" Country: "USA" Status: rookie
+User: "Koikeeper67" PSN: "GTP_Doug" Country: "Canada" Status: rookie
+User: "WRP001" PSN: "GTP_WRP001" Country: "USA" Status: rookie
+User: "Strop" PSN: "GTP_Strop" Country: "USA" Status: rookie
+User: "DigitalBaka" PSN: "DigitalBaka" Country: "USA" Status: rookie
+User: "jbrinkley0826" PSN: "GTP_JBRINKLEY" Country: "USA" Status: rookie
+User: "cooljeffro" PSN: "cooljeffro" Country: "USA" Status: rookie
+User: "HaoleHatingWRX" PSN: "GTP_Wifebeeter" Country: "USA" Status: rookie
+User: "fatman_5050" PSN: "slugman684" Country: "USA" Status: rookie
+User: "digitalwolf" PSN: "DigitalWolf333" Country: "USA" Status: rookie
+User: "Teamsreth" PSN: "Teamsreth" Country: "UK" Status: rookie
+User: "couttsy21" PSN: "couttsy21" Country: "UK" Status: rookie
+User: "geordan" PSN: "GTP_geordan" Country: "USA" Status: rookie
+User: "mcsqueegy" PSN: "GTP_McsQ" Country: "Australia" Status: rookie
+User: "BroncosXR8" PSN: "GTP_BroncosXR8" Country: "Australia" Status: rookie
+User: "superwally" PSN: "GTP_Superwally" Country: "USA" Status: rookie
+User: "noshog" PSN: "noshog" Country: "New Zealand" Status: rookie
+User: "c4joelito" PSN: "c4joelito" Country: "Portugal" Status: rookie
+User: "MSCad" PSN: "MSCad" Country: "UK" Status: rookie
+User: "Thematic" PSN: "thematic604" Country: "Finland" Status: rookie
+User: "Lost-on-drugz" PSN: "lost-on-drugz" Country: "New Zealand" Status: rookie
+User: "oink83" PSN: "GTP_oink" Country: "UK" Status: rookie
+User: "WayneGTC" PSN: "GT5rs_Wayne" Country: "France" Status: rookie
+User: "jonjig" PSN: "jonjig" Country: "UK" Status: rookie
+User: "sems4arsenal" PSN: "GTP_SEMS" Country: "Egypt" Status: rookie
+User: "Severn" PSN: "GTP_Severn" Country: "US" Status: rookie
+User: "The_Grinder" PSN: "VitaminK-" Country: "UK" Status: rookie
+User: "Sutuki" PSN: "GTP_Sutuki" Country: "Finland" Status: rookie
+User: "GTPCrispyOne" PSN: "gtp_crispy_one" Country: "USA" Status: rookie
+User: "KicksAndDeals" PSN: "kicks_and_deals" Country: "USA" Status: rookie
+User: "Perseus0001" PSN: "Pepe_Pete" Country: "USA" Status: rookie
+User: "nepcon12" PSN: "NEPCON12" Country: "DENMARK" Status: rookie
+User: "DrTrouserPlank" PSN: "DrTrouserPlank" Country: "UK" Status: rookie
+User: "rickykaka3" PSN: "ricky_kaka3" Country: "UK" Status: rookie
+User: "Jibatator" PSN: "jibatator" Country: "New Zealand" Status: rookie
+User: "Bonio71" PSN: "bonio71" Country: "UK" Status: rookie
+User: "Mr P" PSN: "Mysteron71" Country: "UK" Status: rookie
+User: "RHODRIEWILLIAMS" PSN: "rhodriewilliams" Country: "UK" Status: rookie
+User: "kadoimmortal" PSN: "GTP_kadoimmortal" Country: "USA" Status: rookie
+User: "King_Bee" PSN: "gtp_KingBee" Country: "NL" Status: rookie
+User: "Yeyzee" PSN: "yacenty" Country: "UK" Status: rookie
+User: "mcfizzle" PSN: "mcfizzle" Country: "USA" Status: rookie
+User: "01GTP" PSN: "GTP_01GTP" Country: "USA" Status: rookie
+User: "kp101" PSN: "Kp101ca" Country: "Canada" Status: rookie
+User: "donatelli_de" PSN: "donatelli" Country: "GER" Status: rookie
+User: "mistersafeway" PSN: "mistersafeway" Country: "England" Status: rookie
+User: "RS__96__oO" PSN: "RS__96__oO" Country: "Germany" Status: rookie
+User: "SideKick" PSN: "SWBrand" Country: "ZA" Status: rookie
+User: "ImprezaAddict" PSN: "GTP_SuItan" Country: "Colombia" Status: rookie
+User: "mika012397" PSN: "GTP_Mika" Country: "Holland" Status: rookie
+User: "JJG12345" PSN: "JJG12345" Country: "Canada" Status: rookie
+User: "RodrigoDLL" PSN: "RowdLL" Country: "Brazil" Status: rookie
+User: "asoimu" PSN: "asoimu" Country: "Romania" Status: rookie
+User: "NIZZY" PSN: "GTP_NIZZY" Country: "Scotland" Status: rookie
+User: "dannyboi93" PSN: "GTP_dannyboi93" Country: "UK" Status: rookie
+User: "serfon" PSN: "pitskater" Country: "Belgium" Status: rookie
+User: "Ricklubberding" PSN: "RickLubberding" Country: "NL" Status: rookie
+User: "JimmyHenry" PSN: "JimmyHenry" Country: "England" Status: rookie
+User: "JudegeBerry" PSN: "JudgeBerry" Country: "UK" Status: rookie
+User: "ICallShotgun" PSN: "icallshotgun1979" Country: "USA" Status: rookie
+User: "abrunet85" PSN: "GTP_abrunet85" Country: "Canada" Status: rookie
+User: "Antmeg26" PSN: "antmeg26" Country: "Aus" Status: rookie
+User: "Frika" PSN: "frikacmb" Country: "Brazil" Status: rookie
+User: "vr6turbo" PSN: "goTgriP845" Country: "USA" Status: rookie
+User: "Bochawa72" PSN: "Bochawa72" Country: "USA" Status: rookie
+User: "automan24" PSN: "automan24" Country: "Canada" Status: rookie
+User: "terk_logan" PSN: "terk_logan" Country: "USA" Status: rookie
+User: "SteelToedSloth" PSN: "SteelToedSloth" Country: "US" Status: rookie
+User: "mark459" PSN: "mark_459" Country: "USA" Status: rookie
+User: "asilva" PSN: "GTP_Dillariam" Country: "USA" Status: rookie
+User: "EWeinbauer" PSN: "EWeinbauer" Country: "USA" Status: rookie
+User: "Rasmus" PSN: "hetoft" Country: "Denmark" Status: rookie
+User: "cicua" PSN: "GTP_cicua" Country: "DK" Status: rookie
+User: "mickyevs" PSN: "mtbmik50" Country: "UK" Status: rookie
+User: "EuroTuned" PSN: "EuroAWD" Country: "USA" Status: rookie
+User: "Hotjike" PSN: "XxHotjikexX" Country: "Canada" Status: rookie
+User: "Nascarboy119" PSN: "Nascarboy-119" Country: "USA" Status: rookie
+User: "See23" PSN: "GTP_See23" Country: "Canada" Status: rookie
+User: "Stigus85" PSN: "Strimler" Country: "Norway" Status: rookie
+User: "numbnuts70" PSN: "numbnuts70" Country: "Wales" Status: rookie
+User: "GTP_Sherwood" PSN: "GTP_Sherwood" Country: "USA" Status: rookie
+User: "M Muggins" PSN: "Muggins97" Country: "Australia" Status: rookie
+User: "GTP_Nail" PSN: "nail-27" Country: "USA" Status: rookie
+User: "tzracer" PSN: "GTP_tzracer" Country: "USA" Status: rookie
+User: "GTP_el_loco" PSN: "GTP_el_loco" Country: "BRAZIL" Status: rookie
+User: "hayzues874" PSN: "hayzues874" Country: "USA" Status: rookie
+User: "cheba" PSN: "cheba88" Country: "Finland" Status: rookie
+User: "pipedog2007" PSN: "pipedawg2007" Country: "UK" Status: rookie
+User: "Nemo Niente" PSN: "NemoNiente" Country: "Denmark" Status: rookie
+User: "mmfastest" PSN: "mmfastest" Country: "Netherlands" Status: rookie
+User: "VR4" PSN: "conekiller73" Country: "USA" Status: rookie
+User: "Revoy" PSN: "GTP_Revoy" Country: "St. Kitts" Status: rookie
+User: "Tesla" PSN: "GTP_slamjams" Country: "Australia" Status: rookie
+User: "Tuffers86" PSN: "stevetuffers" Country: "UAE" Status: rookie
+User: "GranTurismo916" PSN: "atongo619" Country: "USA" Status: rookie
+User: "MisterWeary" PSN: "GTP_MisterWeary" Country: "Australia" Status: rookie
+## Week 04 ## 20 Jan 2014 ##
+User: "F1naL3xaM" PSN: "F1naL3xaM" Country: "USA" Status: rookie
+User: "pk_090" PSN: "GTP_PK_090" Country: "UK" Status: rookie
+User: "Phil3819" PSN: "Phil3819" Country: "UK" Status: rookie
+User: "jfro22" PSN: "jfro222" Country: "USA" Status: rookie
+User: "pol37" PSN: "POL" Country: "USA" Status: rookie
+User: "bubson" PSN: "bubson" Country: "PL" Status: rookie
+User: "Miodrag" PSN: "mikim1975" Country: "Serbia" Status: rookie
+User: "Chouffe" PSN: "Chouffe42" Country: "South Africa" Status: rookie
+User: "pilmat" PSN: "GTP_pilmat" Country: "Canada" Status: rookie
+User: "Widabuddy" PSN: "GTP_Sweep" Country: "USA" Status: rookie
+User: "RamboRuud" PSN: "Ramboruud" Country: "Norway" Status: rookie
+User: "Crozzlow" PSN: "GTP_Crozzlow" Country: "USA" Status: rookie
+User: "Pluscat" PSN: "GTP_Pluscat" Country: "Belgium" Status: rookie
+User: "ChefDementia" PSN: "Chef-Dementia" Country: "USA" Status: rookie
+User: "Vinal" PSN: "GTP_VInaL_mONkeY" Country: "England" Status: rookie
+User: "Binsey" PSN: "Arthur_Farr" Country: "UK" Status: rookie
+User: "billyturmoil" PSN: "billyturmoil" Country: "USA" Status: rookie
+User: "GTP_Plasma" PSN: "GTP_Plasma" Country: "Canada" Status: rookie
+User: "David Fenton" PSN: "davidandcandace" Country: "Spain" Status: rookie
+User: "oslaf" PSN: "Oslaf510" Country: "USA" Status: rookie
+User: "wingman1659" PSN: "GForce1015" Country: "USA" Status: rookie
+## Week 05 ## 27 Jan 2014 ##
+User: "The Boss69" PSN: "The_Boss69" Country: "Norway" Status: rookie
+User: "DOUQA" PSN: "GTP_DOUQA" Country: "England" Status: rookie
+User: "dangerzone641" PSN: "GTPdangerzone641" Country: "USA" Status: rookie
+User: "Gorsem2001" PSN: "JIM_CLARKF1" Country: "Turkey" Status: rookie
+User: "fikander" PSN: "fikander77" Country: "UK" Status: rookie
+User: "Luni Legacy" PSN: "Luni_Legacy" Country: "USA" Status: rookie
+User: "Acid X" PSN: "GXSAcidX" Country: "USA" Status: rookie
+User: "NoahsDadPhil" PSN: "NoahsDadPhil" Country: "USA" Status: rookie
+User: "kowkl" PSN: "kowkl" Country: "Malaysia" Status: rookie
+User: "mohammad" PSN: "smjbj" Country: "Iran" Status: rookie
+User: "brisbane956" PSN: "Brisbane956" Country: "UK" Status: rookie
+User: "WillRacer31" PSN: "WillRacer31" Country: "UK" Status: rookie
+User: "sam_i_am" PSN: "GTP_academic" Country: "Canada" Status: rookie
+User: "kieranmonday" PSN: "GTP_Kizzy" Country: "United Kingdom" Status: rookie
+User: "Spud_Skills" PSN: "GTP_Spud" Country: "UK" Status: rookie
+User: "ItsAllAboutWins" PSN: "ItsAllAboutWins" Country: "USA" Status: rookie
+User: "GTP_Luais" PSN: "gffdfgffvbb" Country: "Italy" Status: rookie
+## Week 06 ## 3 Feb 2014 ##
+User: "nuxetcrux" PSN: "nuxetcrux" Country: "USA" Status: rookie
+User: "romano2603" PSN: "romano2603" Country: "CRO" Status: rookie
+User: "TayTheDay" PSN: "GTP_Tay" Country: "Scotland" Status: rookie
+User: "Deadbrah" PSN: "GTP_Deadbrah" Country: "USA" Status: rookie
+User: "gary kerr" PSN: "GAZZA-266" Country: "Australia" Status: rookie
+User: "Oshawa-Joe" PSN: "Oshawa-Joe" Country: "Canada" Status: rookie
+User: "BrykeSpike0086" PSN: "Falken12" Country: "USA" Status: rookie
+## Week 07 ## 10 Feb 2014 ##
+User: "Crispy" PSN: "crispychicken49" Country: "USA" Status: rookie
+User: "Mukendi" PSN: "mukendi" Country: "Denmark" Status: rookie
+User: "motonegen" PSN: "Mi_B2" Country: "BE" Status: rookie
+User: "jjurasic" PSN: "GTP_jjurasic" Country: "USA" Status: rookie
+User: "Harsk100" PSN: "HarskGaming96" Country: "Portugal" Status: rookie
+User: "StLCards" PSN: "StLCards1985" Country: "USA" Status: rookie
+User: "BuzzDryver" PSN: "BuzzDryver" Country: "Canada" Status: rookie
+User: "mcmullan64" PSN: "mcmullan64" Country: "UK" Status: rookie
+User: "RedPartyhat" PSN: "RedPartyhat" Country: "USA" Status: rookie
+User: "Niop" PSN: "RFLX_Niop" Country: "USA" Status: rookie
+User: "Conor Swan" PSN: "Swangoose99" Country: "USA" Status: rookie
+User: "r0msii" PSN: "r0msiii" Country: "GERMANY" Status: rookie
+User: "Toivonen" PSN: "TT-R_Toivo" Country: "NZ" Status: rookie
+## Week 08 ## 17 Feb 2014 ##
+User: "Special 1" PSN: "GTP_SPECIAL_1" Country: "UK" Status: rookie
+User: "sar593" PSN: "TeamRRC" Country: "Colombia" Status: rookie
+User: "ccaranna" PSN: "cjr3559" Country: "USA" Status: rookie
+User: "Rolly21581" PSN: "Rolly21581" Country: "CAN" Status: rookie
+User: "mohamed karim" PSN: "SINY999" Country: "Egypt" Status: rookie
+User: "Gabriel_K" PSN: "basspelaren2" Country: "Sweden" Status: rookie
+User: "K1utch" PSN: "GTP_K1utch" Country: "US" Status: rookie
+User: "Jump_Ace" PSN: "Jump_Ace" Country: "USA" Status: rookie
+User: "Linger" PSN: "lingerffxiv" Country: "USA" Status: rookie
+User: "MTP311" PSN: "MTP311" Country: "USA" Status: rookie
+User: "Mr_HeadshotXx" PSN: "MR_HEADSHOTXx" Country: "UK" Status: rookie
+User: "mugli" PSN: "ayrton_mugli" Country: "Lux" Status: rookie
+User: "hedheed" PSN: "hedheed" Country: "UK" Status: rookie
+User: "DMacs13" PSN: "DoublePass" Country: "USA" Status: rookie
+User: "INSANECRAB" PSN: "INSANECRAB" Country: "USA" Status: rookie
+## Week 09 ## 25 Feb 2014 ##
+User: "anastasis14" PSN: "GTP_anastasis14" Country: "Greece" Status: rookie
+User: "merlinrichards" PSN: "merlinrichards" Country: "UK" Status: rookie
+User: "JCH8r" PSN: "JCH8r" Country: "USA" Status: rookie
+User: "Masterhec" PSN: "GTMX-HECTO1" Country: "MX" Status: rookie
+User: "Gameratwork99" PSN: "darren-the-pro-" Country: "Ireland" Status: rookie
+User: "KlubbinJay" PSN: "Klubbin__Jay" Country: "The Netherlands" Status: rookie
+User: "Ph1sh" PSN: "GTP_Ph7shr" Country: "USA" Status: rookie
+User: "mr_lab_rat" PSN: "mr_lab_rat" Country: "Canada" Status: rookie
+User: "BionicDerp" PSN: "BionicDerp" Country: "Canada" Status: rookie
+User: "Dan181295" PSN: "Danni_Boi181295" Country: "UK" Status: rookie
+User: "deaconblues82" PSN: "deacon-blues082" Country: "USA" Status: rookie
+## Week 10 ## 3 Mar 2014 ##
+User: "GTP_Dutchy" PSN: "GTP_Dutchy" Country: "Netherlands" Status: rookie
+User: "MarkusK" PSN: "GTP_MarkusK" Country: "Germany" Status: rookie
+User: "pvtlapdance" PSN: "pvt_lapdance" Country: "USA" Status: rookie
+User: "Sodi" PSN: "Sodi1988" Country: "Germany" Status: rookie
+User: "vdubguy88" PSN: "Mustakrakish88" Country: "USA" Status: rookie
+User: "Senninha_77" PSN: "senninha_77" Country: "BR" Status: rookie
+User: "eclipsee" PSN: "eclipsi_RC" Country: "Spain" Status: rookie
+## Week 11 ## 10 Mar 2014 ##
+User: "Kelly" PSN: "KelGT" Country: "UK" Status: rookie
+User: "iGoFast" PSN: "Turismo-lester" Country: "Canada" Status: rookie
+User: "hawksfan2001" PSN: "GTP_Matthewb" Country: "Australia" Status: rookie
+## Week 12 ## 22 Mar 2014 ##
+User: "Mike458" PSN: "pp-123" Country: "US" Status: rookie
+## Week 13 ## 24 Mar 2014 ##
+User: "mathew_s" PSN: "SPOOKY_PANTS2" Country: "USA" Status: rookie
+User: "GuerillaBlack" PSN: "GuerillaBlack" Country: "NL" Status: rookie
+## Week 14 ## 3 Apr 2014 ##
+User: "Bertracer" PSN: "doughboy877" Country: "UK" Status: rookie
+User: "smialas86" PSN: "smialas86" Country: "PL" Status: rookie
+## Week 15 ## 9 Apr 2014 ##
+User: "standucci" PSN: "standucci" Country: "USA" Status: rookie
+## Week 16 ## 14 Apr 2014 ##
+User: "Holty" PSN: "GTP_Holty" Country: "UK" Status: rookie
+User: "GregOr1971" PSN: "GregOr1971" Country: "SVN" Status: rookie
+User: "nico4711" PSN: "nico4711" Country: "GERMANY" Status: rookie
+User: "yanickw92" PSN: "yanickw92" Country: "Switzerland" Status: rookie
+User: "Combinho" PSN: "Combinho" Country: "UK" Status: rookie
+User: "Johnnypenso" PSN: "Johnnypenso" Country: "Canada" Status: rookie
+User: "R35 SKYLIN3" PSN: "R35-SKYL1N3" Country: "Scotland" Status: rookie
+User: "The35" PSN: "TP-35" Country: "HUN" Status: rookie
+User: "kapnk006" PSN: "GTP_Xiamoto" Country: "USA" Status: rookie
+User: "CSLACR" PSN: "GTP_CSL" Country: "USA" Status: rookie
+## Week 17 ## 21 Apr 2014 ##
+User: "Ufothekar" PSN: "ufothek" Country: "Switzerland" Status: rookie
+User: "emviti" PSN: "tolits" Country: "Netherlands" Status: rookie
+User: "Ettick" PSN: "Ettick_" Country: "USA" Status: rookie
+User: "STLbarcelona5" PSN: "Ludeviche" Country: "USA" Status: rookie
+User: "Gino Caberlin" PSN: "ellu1999" Country: "Italy" Status: rookie
+## Week 18 ## 2 May 2014 ##
+User: "raffyvorlengg" PSN: "raffy_vor_lengg" Country: "Switzerland" Status: rookie
+User: "force ewerby" PSN: "force_ewerby" Country: "UK" Status: rookie
+## Week 19 ## 9 May 2014 ##
+User: "amemyarz" PSN: "amemyarz" Country: "USA" Status: rookie
+User: "Will 23" PSN: "will_campbell_23" Country: "USA" Status: rookie
+## Week 20 ## 14 May 2014 ##
+User: "gtp_Tenderly" PSN: "tenderly90" Country: "ITALY" Status: rookie
+User: "GTP_Compton3" PSN: "GTP_Compton3" Country: "USA" Status: rookie
+User: "Kasper79" PSN: "KawaKasper036" Country: "Germany" Status: rookie
+## Week 21 ## 24 May 2014 ##
+User: "DrAug" PSN: "aughablo" Country: "France" Status: rookie
+## Week 22 ## 30 May 2014 ##
+User: "msgt-sd" PSN: "msgt-sd" Country: "USA" Status: rookie
+User: "Ayhancan1998" PSN: "POLISET" Country: "Turkey (TR)" Status: rookie
+## Week 23 ## 3 Jun 2014 ##
+User: "ph1lb4" PSN: "gatsch1111" Country: "AT" Status: rookie
+User: "driescuit" PSN: "GTHQ_driesnys" Country: "BE" Status: rookie
+## Week 24 ## 11 Jun 2014 ##
+User: "Shuzbut" PSN: "Shuzbut_" Country: "Australia" Status: rookie
+User: "Jbaffoh" PSN: "Whisper_Crew" Country: "USA" Status: rookie
+## Week 25 ## 21 Jun 2014 ##
+User: "Oswald07" PSN: "Oswald07" Country: "Canada" Status: rookie
+## Week 26 ## 23 Jun 2014 ##
+User: "Pringles947" PSN: "PRINGLES_947" Country: "Australia" Status: rookie
+## Week 29 ## 19 Jul 2014 ##
+User: "alexamenos" PSN: "alexamenos" Country: "USA" Status: rookie
+User: "Iceman220" PSN: "Ruzinvincible" Country: "India" Status: rookie
+User: "GTP_macca" PSN: "albionstar" Country: "UK" Status: rookie
+User: "Cu3e" PSN: "bergele" Country: "Finland" Status: rookie
+User: "LLOYDZELITE69" PSN: "CAR_LLOYDZELITE" Country: "CAN" Status: rookie
+User: "Mini Stiggy" PSN: "I__Like_Oranges" Country: "USA" Status: rookie
+User: "Michelin" PSN: "GTP_Michelin9960" Country: "Brazil" Status: rookie
+User: "idontknowwhat" PSN: "Greatgeezer" Country: "UK" Status: rookie
+User: "ionstriker" PSN: "IONSTRIKER" Country: "INDIA" Status: rookie
+User: "Mattin" PSN: "MattinMJ" Country: "DENMARK" Status: rookie
+User: "jpenn513" PSN: "JPenn513" Country: "USA" Status: rookie
+User: "Rotorist" PSN: "Rotorist" Country: "Greece" Status: rookie
+User: "et_" PSN: "erazer13" Country: "Sweden" Status: rookie
+User: "swsc73" PSN: "swsc73" Country: "DE" Status: rookie
+## Week 30 ## 21 Jul 2014 ##
+User: "AbsoluteBarstool" PSN: "AbsoluteBarstool" Country: "United Kingdom" Status: rookie
+User: "OpticZero" PSN: "OpticZero0" Country: "USA" Status: rookie
+User: "stonelejo" PSN: "stonelejo" Country: "Netherlands" Status: rookie
+User: "Tyler Utley" PSN: "proper_t11" Country: "USA" Status: rookie
+User: "niichz" PSN: "nichz55" Country: "Brazil" Status: rookie
+User: "Meister Fetz" PSN: "MeisterFetz" Country: "AUT" Status: rookie
+User: "DxBolyhos" PSN: "dbolyhos" Country: "Brazil" Status: rookie
+User: "Ryan Lynch" PSN: "rclynch" Country: "USA" Status: rookie
+User: "onek" PSN: "GTP_juankmonty" Country: "COLOMBIA" Status: rookie
+User: "jdinicola" PSN: "jdinicola" Country: "SPAIN" Status: rookie
+User: "GTP_MX5Fan" PSN: "GTP_MX5Fan" Country: "USA" Status: rookie
+User: "puezalb" PSN: "SPENCIVE" Country: "USA" Status: rookie
+User: "KartRacer63" PSN: "Kart_Racer63" Country: "USA" Status: rookie
+## Week 31 ## 28 Jul 2014 ##
+User: "Charlie A" PSN: "Warlie12" Country: "USA" Status: rookie
+User: "DieselDave" PSN: "DieselDave08" Country: "UK" Status: rookie
+User: "TRGTspecialist" PSN: "TRGT_specialist" Country: "Northern Ireland" Status: rookie
+User: "vsfit" PSN: "vsfit88" Country: "USA" Status: rookie
+User: "Shahar" PSN: "GTP_hilajj" Country: "Israel" Status: rookie
+User: "Addict75" PSN: "starfighter75" Country: "Switzerland" Status: rookie
+User: "GTP_randy" PSN: "GTP_randy" Country: "USA" Status: rookie
+User: "redbullrider20" PSN: "redbullrider20" Country: "USA" Status: rookie
+User: "Apok" PSN: "csiApok" Country: "Slovenia" Status: rookie
+User: "A NOrthern Soul" PSN: "SaturdaysKid" Country: "UK" Status: rookie
+## Week 32 ## 4 Aug 2014 ##
+User: "Soiso4osteven" PSN: "sis4steven" Country: "UK" Status: rookie
+User: "BayouSimDrifter" PSN: "blueninjacivic" Country: "USA" Status: rookie
+User: "PHO3NIX_F1RE" PSN: "PHO3NIX_F1RE" Country: "UK" Status: rookie
+User: "avata_jo" PSN: "avata_jo" Country: "ZA" Status: rookie
+User: "Pyogat44" PSN: "Pyogat44" Country: "Indonesia" Status: rookie
+User: "poumpoum" PSN: "poumpoumk" Country: "FR" Status: rookie
+User: "Kjeld Lund" PSN: "DEPR" Country: "Denmark" Status: rookie
+## Week 33 ## 16 Aug 2014 ##
+User: "Madatek" PSN: "ScippaLimoni" Country: "ITA" Status: rookie
+User: "Nick Flynn" PSN: "nickflynn2" Country: "USA" Status: rookie
+## Week 34 ## 19 Aug 2014 ##
+User: "Joerg" PSN: "clubbinman75" Country: "Germany" Status: rookie
+User: "RJS" PSN: "Rjs86" Country: "Portugal" Status: rookie
+## Week 35 ## 25 Aug 2014 ##
+User: "suprajef" PSN: "GTP_Pokey" Country: "USA" Status: rookie
+User: "as0103" PSN: "as0103" Country: "Portugal" Status: rookie
+## Week 36 ## 6 Sep 2014 ##
+User: "Javi Piqueras" PSN: "RIUK25" Country: "Spain" Status: rookie
+User: "Ed_Night" PSN: "Ed_Night" Country: "Germany" Status: rookie
+## Week 37 ## 13 Sep 2014 ##
+User: "goofytyler" PSN: "goofytyler1995" Country: "USA" Status: rookie
+## Week 39 ## 23 Sep 2014 ##
+User: "Fieldy01" PSN: "MGFIELD" Country: "UK" Status: rookie
+User: "rarpal" PSN: "palitek" Country: "UK" Status: rookie
+User: "Scytale" PSN: "McNuno" Country: "Portugal" Status: rookie
+User: "gazziboy" PSN: "gazziboy" Country: "UK" Status: rookie
+User: "AaronDonegal" PSN: "AaronDonegal" Country: "Ireland" Status: rookie
+User: "hilly0815" PSN: "hilly0815" Country: "Germany" Status: rookie
+## Week 40 ## 29 Sep 2014 ##
+User: "PatrisS136" PSN: "Pat_Byali36" Country: "Poland" Status: rookie
+User: "Rooky Balboa" PSN: "ROOKY_BALBOA" Country: "UK" Status: rookie
+User: "Twizted Zero" PSN: "TwiztedZero" Country: "USA" Status: rookie
+User: "Danny Domingo" PSN: "Giel007" Country: "Belgium" Status: rookie
+User: "ThePDTX" PSN: "RafaelR_13" Country: "Portugal" Status: rookie
+User: "akira86" PSN: "akira8654" Country: "USA" Status: rookie
+User: "Serdj" PSN: "daserdj" Country: "RUSSIA" Status: rookie
+User: "Lococurling" PSN: "Lococurling" Country: "BRA" Status: rookie
+User: "Groslardon" PSN: "GrosQuadStacker" Country: "France" Status: rookie
+User: "DasDude" PSN: "DUDE_ABIDES-1930" Country: "USA" Status: rookie
+User: "WiiFreak" PSN: "WiiFreak" Country: "Canada" Status: rookie
+User: "toddchris75" PSN: "toddchris75" Country: "USA" Status: rookie
+## Week 41 ## 6 Oct 2014 ##
+User: "Nickonen" PSN: "Nickonen" Country: "Greece" Status: rookie
+User: "demmyroososs" PSN: "demmyroososs" Country: "Australia" Status: rookie
+User: "Mchendrix1986" PSN: "mchendrix1986" Country: "UK" Status: rookie
+User: "Dcplr434" PSN: "dcplr434" Country: "USA" Status: rookie
+## Week 42 ## 13 Oct 2014 ##
+User: "nascarfan14" PSN: "spyagent1439" Country: "USA" Status: rookie
+User: "Hart" PSN: "HartGoesHARD" Country: "USA" Status: rookie
+User: "WildChild89" PSN: "wild_child_89_" Country: "Finland" Status: rookie
+User: "joe_diben" PSN: "Joe_DiBen" Country: "Canada" Status: rookie
+User: "Sonicfan5109" PSN: "sweetp973" Country: "USA" Status: rookie
+## Week 44 ## 28 Oct 2014 ##
+User: "MightyL" PSN: "mightylieven" Country: "belgium" Status: rookie
+User: "Paul Bayliss" PSN: "bayz0007" Country: "UK" Status: rookie
+## Week 45 ## 6 Nov 2014 ##
+User: "Gadge" PSN: "GTP_Gadget6711" Country: "UK" Status: rookie
+## Week 47 ## 19 Nov 2014 ##
+User: "McTrucker" PSN: "McTrucker000" Country: "USA" Status: rookie
+User: "RuddRacer" PSN: "RuddRacer" Country: "USA" Status: rookie
+User: "schmues_hh" PSN: "schmues_hh" Country: "Germany" Status: rookie
+User: "pazdzioch564" PSN: "Los_Pazdziochos" Country: "POLAND" Status: rookie
+## Week 48 ## 24 Nov 2014 ##
+User: "stratos_yzr" PSN: "sgy-4" Country: "Japan" Status: rookie
+User: "Charlie9000" PSN: "Charlie_9000" Country: "UK" Status: rookie
+User: "NexxusDrako" PSN: "Nexxus_J_Drako" Country: "Australia" Status: rookie
+## Week 49 ## 2 Dec 2014 ##
+User: "Fallen_log" PSN: "Fallen_log" Country: "USA" Status: rookie
+## Week 50 ## 9 Dec 2014 ##
+User: "Sinuhe" PSN: "Clemeson" Country: "SPAIN" Status: rookie
+User: "Ebojager" PSN: "Ebojager" Country: "USA" Status: rookie
+User: "Arveena" PSN: "arveena" Country: "GER" Status: rookie
+## Week 51 ## 15 Dec 2014 ##
+User: "monkeywall" PSN: "monkeywall" Country: "UK" Status: rookie
+User: "syntex123" PSN: "syntex123" Country: "Norway" Status: rookie
+## Week 52 ## 22 Dec 2014 ##
+User: "ShortbusThug_" PSN: "ShortbusThug__" Country: "USA" Status: rookie
+User: "noname_david" PSN: "noname_david" Country: "INDIA" Status: rookie
+## Week 01 ## 1 Jan 2015 ##
+User: "Rob Ledwell" PSN: "d4rizob" Country: "USA" Status: rookie
+## Week 02 ## 5 Jan 2015 ##
+User: "giznav" PSN: "giznav" Country: "Netherlands" Status: rookie
+## Week 03 ## 12 Jan 2015 ##
+User: "Jesper04" PSN: "spuns" Country: "DK" Status: rookie
+User: "onebadVr4" PSN: "one_bad_VR-4" Country: "USA" Status: rookie
+User: "Bugman" PSN: "The_Bugman_" Country: "USA" Status: rookie
+User: "kelrick85" PSN: "kelrick85" Country: "CANADA" Status: rookie
+User: "Patrick8308" PSN: "Patrick8308" Country: "Germany" Status: rookie
+## Week 04 ## 22 Jan 2015 ##
+User: "fedelobster" PSN: "lobsterfede" Country: "Italy" Status: rookie
+## Week 05 ## 31 Jan 2015 ##
+User: "RZQSPEED" PSN: "razaqafazran1103" Country: "INA" Status: rookie
+## Week 06 ## 4 Feb 2015 ##
+User: "Giorgio_57" PSN: "Giorgio_57" Country: "Italy" Status: rookie
+User: "Mires" PSN: "MAD_Mires" Country: "SVK" Status: rookie
+User: "Kiba Stryker" PSN: "Kiba_Stryker" Country: "USA" Status: rookie
+## Week 07 ## 13 Feb 2015 ##
+User: "Naveen Uraon" PSN: "nuraon1" Country: "India" Status: rookie
+## Week 09 ## 1 Mar 2015 ##
+User: "Tijee" PSN: "Tijee31" Country: "France" Status: rookie
+## Week 10 ## 2 Mar 2015 ##
+User: "ro amighetti" PSN: "ro-amighetti" Country: "ITA" Status: rookie
+User: "Hollanderic" PSN: "Hollanderic" Country: "USA" Status: rookie
+User: "TRL_Andromeda" PSN: "TRL_Andromeda" Country: "Spain" Status: rookie
+## Week 11 ## 15 Mar 2015 ##
+User: "MantasGT6" PSN: "MantasGT6" Country: "LT" Status: rookie
+User: "catamount39" PSN: "catamount39" Country: "USA" Status: rookie
+User: "GT_Racer22" PSN: "GTP_GTRacer22" Country: "USA" Status: rookie
+## Week 12 ## 20 Mar 2015 ##
+User: "AJHG1000" PSN: "GTP_Cimarron" Country: "Mexico" Status: rookie
+User: "Ibuki" PSN: "bedgy1" Country: "Australia" Status: rookie
+## Week 13 ## 23 Mar 2015 ##
+User: "Sanguinerose" PSN: "ste-viebhoy" Country: "Scotland" Status: rookie
+## Week 14 ## 31 Mar 2015 ##
+User: "Lol111jj" PSN: "Lol111jj" Country: "USA" Status: rookie
+User: "graveltrap" PSN: "graveltrap" Country: "UK" Status: rookie
+User: "gvmz" PSN: "m1n0ss3" Country: "ITALY" Status: rookie
+## Week 15 ## 12 Apr 2015 ##
+User: "samurai8juice" PSN: "samurai8juicebox" Country: "USA" Status: rookie
+## Week 16 ## 14 Apr 2015 ##
+User: "aruizb" PSN: "Yo-2099" Country: "USA" Status: rookie
+## Week 17 ## 20 Apr 2015 ##
+User: "thesmallpup" PSN: "thesmallpup87" Country: "UK" Status: rookie
+User: "brendon5564" PSN: "brendon5564" Country: "USA" Status: rookie
+## Week 18 ## 28 Apr 2015 ##
+User: "Mikey24" PSN: "mikey_2412" Country: "UK" Status: rookie
+## Week 19 ## 6 May 2015 ##
+User: "Aaroh007" PSN: "AarohRavindra" Country: "India" Status: rookie
+## Week 22 ## 26 May 2015 ##
+User: "agera" PSN: "agera_snow" Country: "united states" Status: rookie
+## Week 26 ## 27 Jun 2015 ##
+User: "pogledrip" PSN: "pogledrip" Country: "UK" Status: rookie
+## Week 27 ## 29 Jun 2015 ##
+User: "euclid58" PSN: "euclid58" Country: "USA" Status: rookie
+## Week 28 ## 11 Jul 2015 ##
+User: "SuperSqrl51" PSN: "SuperSquirrel51" Country: "Canada" Status: rookie
+## Week 29 ## 15 Jul 2015 ##
+User: "SoulViper" PSN: "evieira2014" Country: "Brazil" Status: rookie
+## Week 31 ## 27 Jul 2015 ##
+User: "8l23ub" PSN: "bl23ub" Country: "UK" Status: rookie
+User: "CRT_Apex" PSN: "CRT_Apex" Country: "Brazil" Status: rookie
+## Week 32 ## 9 Aug 2015 ##
+User: "Vitessekid" PSN: "Vitessekid" Country: "Singapore" Status: rookie
+## Week 35 ## 24 Aug 2015 ##
+User: "volvodriver" PSN: "pcvolvoman" Country: "AUS" Status: rookie
+User: "JamCar0ne" PSN: "JamCar0ne" Country: "USA" Status: rookie
+## Week 36 ## 1 Sep 2015 ##
+User: "slater1" PSN: "Slater1" Country: "Sweden" Status: rookie
+User: "Zolon32" PSN: "Zolon32" Country: "UK" Status: rookie
+## Week 37 ## 7 Sep 2015 ##
+User: "TEX36" PSN: "TEX-36" Country: "USA" Status: rookie
+#User: "StanNz" PSN: "stanclewes" Country: "NEW ZEALAND" Status: rookie
+User: "StanNz" PSN: "stann_oz66" Country: "NEW ZEALAND" Status: rookie
+## Week 38 ## 18 Sep 2015 ##
+User: "Dragonwhisky" PSN: "dragonwhisky" Country: "USA" Status: rookie
+User: "tarnheld" PSN: "tarnheld" Country: "Germany" Status: rookie
+## Week 39 ## 21 Sep 2015 ##
+User: "jomo23" PSN: "jomontoya" Country: "USA" Status: rookie
+User: "Jfrod" PSN: "jfrod52" Country: "SPAIN" Status: rookie
+User: "JayFezza7" PSN: "J-FEZZA_7" Country: "USA" Status: rookie
+User: "Advqnce" PSN: "TRL_WhiteKnight" Country: "Australia" Status: rookie
+## Week 40 ## 28 Sep 2015 ##
+User: "Radoslav" PSN: "RadoslavKoburov" Country: "Bulgaria" Status: rookie
+## Week 41 ## 7 Oct 2015 ##
+User: "GTP_hpdjannik" PSN: "hpdjannik" Country: "GER" Status: rookie
+## Week 42 ## 12 Oct 2015 ##
+User: "Lilium" PSN: "LILIUM_55" Country: "PORTUGAL" Status: rookie
+User: "amcdo122" PSN: "amcdo122" Country: "Australia" Status: rookie
+## Week 44 ## 31 Oct 2015 ##
+User: "Carsten Rinke" PSN: "c-maanreri" Country: "Germany" Status: rookie
+## Week 45 ## 5 Nov 2015 ##
+User: "Antares26" PSN: "The_Noir_Antares" Country: "Philippines" Status: rookie
+User: "Cdennis" PSN: "cezardenis20" Country: "Canada" Status: rookie
+User: "stevomac941" PSN: "stevomac941" Country: "Uk" Status: rookie
+## Week 46 ## 9 Nov 2015 ##
+User: "Birigori" PSN: "Birigori" Country: "Kenya" Status: rookie
+User: "IMMORTALPILOT" PSN: "TRL_IMMORTAL" Country: "Germany" Status: rookie
+## Week 47 ## 17 Nov 2015 ##
+User: "nissman" PSN: "IRT_NissmanR32" Country: "Slovenia" Status: rookie
+User: "jnmjeeper" PSN: "EBishiop" Country: "USA" Status: rookie
+User: "lozzaiscool" PSN: "lozzaiscool" Country: "UK" Status: rookie
+User: "Ricky Wilson" PSN: "Acidtestkids" Country: "USA" Status: rookie
+User: "xStretch-" PSN: "StretchY-" Country: "Spain" Status: rookie
+User: "dethadder93" PSN: "dethadder93" Country: "UK" Status: rookie
+## Week 48 ## 26 Nov 2015 ##
+User: "RacingLine" PSN: "TRL_EVOLUTION" Country: "Sweden" Status: rookie
+## Week 49 ## 1 Dec 2015 ##
+User: "SRT DK Racing" PSN: "MrRacingline" Country: "DENMARK" Status: rookie
+User: "DannyB013" PSN: "DannyB013" Country: "UK" Status: rookie
+## Week 50 ## 7 Dec 2015 ##
+User: "Mahdoee_" PSN: "pilsan_truth" Country: "Turkey" Status: rookie
+## Week 53 ## 28 Dec 2015 ##
+User: "Cobra75" PSN: "COBRA75" Country: "SWE" Status: rookie
+User: "richroo" PSN: "gu1tar3rich" Country: "UK" Status: rookie
+User: "Rex218" PSN: "Rex218" Country: "UK" Status: rookie
+User: "Derek Morten" PSN: "dcjmorten" Country: "uk" Status: rookie
+## Week 02 ## 15 Jan 2016 ##
+User: "bloodstriker" PSN: "RotatingKitchen" Country: "Australia" Status: rookie
+User: "wahthewalrus" PSN: "waluigithewalrus" Country: "USA" Status: rookie
+## Week 03 ## 20 Jan 2016 ##
+User: "Scorpion0001" PSN: "ScorpionPHVH57" Country: "Canada" Status: rookie
+User: "rallymathie" PSN: "rallymathie" Country: "BE" Status: rookie
+User: "mechyboy27" PSN: "mechyboy27" Country: "USA" Status: rookie
+User: "J_Starscream" PSN: "J_Starscream" Country: "Switzerland" Status: rookie
+## Week 04 ## 31 Jan 2016 ##
+User: "epic_apri_39" PSN: "epicgiratina" Country: "UK" Status: rookie
+## Week 06 ## 13 Feb 2016 ##
+User: "nmscapegoat" PSN: "nmscapegoat" Country: "USA" Status: rookie
+## Week 07 ## 16 Feb 2016 ##
+User: "Killmorero" PSN: "killmorero" Country: "Italy" Status: rookie
+## Week 08 ## 25 Feb 2016 ##
+User: "EliteJerk" PSN: "EliteJerk" Country: "Australia" Status: rookie
+User: "OscarMorales" PSN: "GTMX-Oscar" Country: "México" Status: rookie
+User: "Ruben_Ru" PSN: "Ruben_Ru" Country: "Spain" Status: rookie
+User: "TNR_5zigen" PSN: "TNR_5zigen" Country: "USA" Status: rookie
+User: "TNR_KING_FILO" PSN: "TNR_FILO" Country: "UK" Status: rookie
+## Week 09 ## 29 Feb 2016 ##
+User: "TeamEdge702" PSN: "TNR_Pfeffer702" Country: "USA" Status: rookie
+User: "Alfa_Avanti44" PSN: "GTMX-ALFAVANTI44" Country: "Mexico." Status: rookie
+## Week 15 ## 11 Apr 2016 ##
+User: "prutser78" PSN: "P_RUTSER" Country: "Netherlands" Status: rookie
+User: "BenMillard" PSN: "BenMillard" Country: "UK" Status: rookie
+User: "StigsTC" PSN: "StigsTC" Country: "Australia" Status: rookie
+## Week 17 ## 1 May 2016 ##
+User: "andp132" PSN: "IRT_ColossosR33" Country: "Slovenija" Status: rookie
+## Week 19 ## 12 May 2016 ##
+User: "luke norris" PSN: "lets_party-1611" Country: "AUS" Status: rookie
+User: "xlaurent" PSN: "GTP_xlaurent" Country: "MX" Status: rookie
+## Week 23 ## 9 Jun 2016 ##
+User: "R Black" PSN: "RSOB73" Country: "CANADA" Status: rookie
+## Week 24 ## 16 Jun 2016 ##
+User: "mtbiker157" PSN: "GTP_mtbiker157" Country: "USA" Status: rookie
+## Week 25 ## 24 Jun 2016 ##
+User: "DeuxMilles" PSN: "Deux_Milles" Country: "GERMANY" Status: rookie
+## Week 29 ## 21 Jul 2016 ##
+User: "Buckroger06" PSN: "buckroger06" Country: "Australia" Status: rookie
+## Week 33 ## 16 Aug 2016 ##
+User: "Tour1sT" PSN: "GTP_Tour1sT" Country: "Russia" Status: rookie
+User: "Budgie1120" PSN: "DJSchwartz" Country: "USA" Status: rookie
+User: "MFGroenbech" PSN: "MFG_3105" Country: "DENMARK" Status: rookie
+User: "andrew1990" PSN: "ajh_1990" Country: "UK" Status: rookie
+User: "Carlos_Alvar" PSN: "Cornal_EC" Country: "Ecuador" Status: rookie
+## Week 34 ## 24 Aug 2016 ##
+User: "Jon Terry" PSN: "JONFNTERRY" Country: "USA" Status: rookie
+User: "JVittone" PSN: "JVittone" Country: "USA" Status: rookie
+## Week 35 ## 1 Sep 2016 ##
+User: "gyrl" PSN: "barcavs5az789" Country: "BELGIUM" Status: rookie
+User: "GTEFGHA" PSN: "GTEFGHA" Country: "Croatia" Status: rookie
+## Week 38 ## 19 Sep 2016 ##
+User: "danbojte" PSN: "danbojte" Country: "Romania" Status: rookie
+User: "philips99" PSN: "DiogoAndre97" Country: "PT" Status: rookie
+User: "quentin1974" PSN: "nolucktoday" Country: "USA" Status: rookie
+## Week 39 ## 27 Sep 2016 ##
+User: "Thorin Cain" PSN: "THORIN-RAYVEN" Country: "UK" Status: rookie
+User: "lllTrick" PSN: "LLLTRICK" Country: "CANADA" Status: rookie
+User: "GTLehman" PSN: "GTLehman" Country: "USA" Status: rookie
+User: "littleregret265" PSN: "littleregret265" Country: "USA" Status: rookie
+## Week 44 ## 5 Nov 2016 ##
+User: "JmmL94" PSN: "GTMX-jmml94" Country: "Mexico" Status: rookie
+## Week 46 ## 18 Nov 2016 ##
+User: "Elli3riM" PSN: "Elli3-riM" Country: "NL" Status: rookie
+## Week 47 ## 21 Nov 2016 ##
+User: "Windfire1010" PSN: "Windfire1010" Country: "USA" Status: rookie
+User: "Gr8888T" PSN: "Nos255mph" Country: "Canada" Status: rookie
+## Week 48 ## 29 Nov 2016 ##
+User: "RectalKeurig" PSN: "RectalKeurig" Country: "USA" Status: rookie
+## Week 50 ## 18 Dec 2016 ##
+User: "Handlebar" PSN: "HandlebarMustash" Country: "USA" Status: rookie
+## Week 52 ## 26 Dec 2016 ##
+User: "Laynedelatte" PSN: "laynedelatte" Country: "USA" Status: rookie
+## Week 03 ## 17 Jan 2017 ##
+User: "MikeleMei" PSN: "MikeleMei" Country: "Italy" Status: rookie
+## Week 05 ## 2 Feb 2017 ##
+User: "_Applefan_" PSN: "LucasShea" Country: "Hong Kong" Status: rookie
+## Week 11 ## 13 Mar 2017 ##
+User: "maxskuk" PSN: "maxskuk" Country: "ITALY" Status: rookie
+User: "acekev1983" PSN: "GTP_AceKev83" Country: "UK" Status: rookie
+User: "gerber" PSN: "Michael-O-Pear" Country: "Poland" Status: rookie
+## Week 19 ## 8 May 2017 ##
+User: "ontherivet" PSN: "ontherivet" Country: "USA" Status: rookie
+## Week 20 ## 16 May 2017 ##
+User: "NoQuarter" PSN: "GTX_NQX" Country: "USA" Status: rookie
+## Week 22 ## 2 Jun 2017 ##
+User: "nascarfan1400" PSN: "nascarfan1400" Country: "USA" Status: rookie
+## Week 24 ## 12 Jun 2017 ##
+User: "Luiz Frota" PSN: "acenbrone" Country: "Brazil" Status: rookie
+## Week 27 ## 9 Jul 2017 ##
+User: "rprphoto" PSN: "rprphoto" Country: "USA" Status: rookie
+## Week 47 ## 26 Nov 2017 ##
+User: "Dynamic" PSN: "Special_K_2181" Country: "United Kingdom" Status: rookie
+User: "Dougill" PSN: "Dougill" Country: "UK" Status: rookie
+## Week 48 ## 27 Nov 2017 ##
+User: "GTP_randy" PSN: "GTP_randy" Country: "USA" Status: rookie
+User: "Espial" PSN: "Espial_" Country: "Austria" Status: rookie
+User: "Turbo Racer 48" PSN: "GTP_OLRRTR" Country: "UK" Status: rookie
+User: "LR-MR-Cole" PSN: "LR-MR-Cole" Country: "USA" Status: rookie
+User: "Apollo440" PSN: "apollovictoria44" Country: "Indonesia" Status: rookie
+User: "routergod24" PSN: "routergod24" Country: "USA" Status: rookie
+User: "Kedmasterz" PSN: "tao_ren" Country: "France" Status: rookie
+User: "mavuk" PSN: "sw_a_y" Country: "UK" Status: rookie
+User: "Revver00" PSN: "trevisio" Country: "UK" Status: rookie
+User: "Kinna39" PSN: "Kinna39" Country: "Australia" Status: rookie
+User: "Naveek Darkroom" PSN: "NaveekDarkroom" Country: "Canada" Status: rookie
+User: "Amboss" PSN: "Der_Radiator" Country: "Germany" Status: rookie
+User: "FabAC" PSN: "HeadHunter8522" Country: "ITALY" Status: rookie
+User: "F4H Rosso" PSN: "F4H_Rosso" Country: "GBR" Status: rookie
+User: "Kendaru Sato" PSN: "reinashibuya17" Country: "Japan" Status: rookie
+User: "Alex Thacker" PSN: "swampogre619" Country: "UK" Status: rookie
+User: "Cfft555" PSN: "crft555" Country: "AUS" Status: rookie
+User: "citizenswift" PSN: "CitizenSwift" Country: "Australia" Status: rookie
+User: "MrCrynox" PSN: "MrCrynox" Country: "UK" Status: rookie
+User: "EbrahimOsman" PSN: "ebrahimosman" Country: "ZA" Status: rookie
+User: "lDeMoN" PSN: "xd3m0n15x" Country: "USA" Status: rookie
+User: "shoenboggie" PSN: "shoenboggie" Country: "USA" Status: rookie
+User: "turnupdaheat" PSN: "turnupdaheat" Country: "Ireland" Status: rookie
+User: "Psycho Turtle" PSN: "TEXAS-TURTLE-ONE" Country: "USA" Status: rookie
+User: "PSDazmaniac" PSN: "PSDazmaniac" Country: "England" Status: rookie
+User: "Nerazzurri" PSN: "DonNerazzurri666" Country: "UK" Status: rookie
+User: "SileightyCyrus" PSN: "SileightyCyrus" Country: "USA" Status: rookie
+User: "rinkly" PSN: "Rinkly72" Country: "AUS" Status: rookie
+User: "BLo320" PSN: "B-LOX320" Country: "USA" Status: rookie
+User: "racer_xis" PSN: "racer_xis" Country: "Brazil" Status: rookie
+User: "baldgye" PSN: "BALD_GYE" Country: "UK" Status: rookie
+User: "Never2fast1" PSN: "Never2fast1" Country: "USA" Status: rookie
+User: "FUNanywhere" PSN: "FUNanywhere" Country: "India" Status: rookie
+User: "A3_JAY" PSN: "F1_EARDLEY_26" Country: "ENGLAND" Status: rookie
+User: "SneakyDeeky" PSN: "SneakyDeeky355" Country: "USA" Status: rookie
+User: "Renrag39" PSN: "Renrag39" Country: "UK" Status: rookie
+User: "Ax4xGearHead" PSN: "Ax4xGearHead" Country: "USA" Status: rookie
+User: "abn" PSN: "slipperypigeon69" Country: "UK" Status: rookie
+User: "Twstcrv" PSN: "GTP_twstcrv" Country: "USA" Status: rookie
+User: "ApexMayhxm" PSN: "ApexMayhxm" Country: "UK" Status: rookie
+User: "Rick23 GT" PSN: "rick-918-bmx" Country: "Netherlands" Status: rookie
+User: "bigdawg_351" PSN: "access_raider" Country: "USA" Status: rookie
+User: "Gimalork" PSN: "Gimalork004" Country: "USA" Status: rookie
+## Week 49 ## 4 Dec 2017 ##
+User: "GTFraker" PSN: "CelestialFreak" Country: "Poland" Status: rookie
+User: "Iceman" PSN: "Be_Weis" Country: "USA" Status: rookie
+## imported ##
+User: "steven" PSN: "GTP_Steven" Country: "NL" Status: rookie
+User: "OZ" PSN: "GTP_OZ" Country: "USA" Status: rookie
+User: "Rikson" PSN: "GTP_RikWrx" Country: "Holland" Status: rookie
+## Week 50 ## 11 Dec 2017 ##
+User: "SnakeEater0G" PSN: "Snakeeater2017" Country: "USA" Status: rookie
+User: "ststav01" PSN: "ststav01" Country: "Bulgaria" Status: rookie
+User: "FredBrighton" PSN: "FREDBRIGHTON" Country: "UK" Status: rookie
+User: "machine1121" PSN: "MACHINE1121" Country: "USA" Status: rookie
+User: "SkyArkz23" PSN: "GTRacerskyer" Country: "USA" Status: rookie
+User: "phil_75" PSN: "phil_75" Country: "UK" Status: rookie
+User: "Guy Jenner" PSN: "Crawleyjester" Country: "United Kingdom" Status: rookie
+User: "Rowdy Burns" PSN: "RowdyBurns58" Country: "UK" Status: rookie
+User: "Askorbiini" PSN: "Askorbiini" Country: "Finland" Status: rookie
+User: "alertthepro" PSN: "NINotMassive" Country: "USA" Status: rookie
+User: "RickyGT" PSN: "PS_Ric" Country: "Italy" Status: rookie
+User: "gherkin" PSN: "gherkin12" Country: "UK" Status: rookie
+User: "Xcuz_PT" PSN: "Xcuz_PT]" Country: "Portugal" Status: rookie
+User: "BuckFly" PSN: "BuckFly" Country: "USA" Status: rookie
+User: "Pontaleon" PSN: "Pontaleon" Country: "U.A.E" Status: rookie
+User: "Foxarelly" PSN: "Foxarelly" Country: "Usa" Status: rookie
+User: "Maique" PSN: "Maique" Country: "Portugal" Status: rookie
+User: "Bass Addict" PSN: "Bassaddition" Country: "USA" Status: rookie
+User: "Casey" PSN: "GTP_Casey" Country: "USA" Status: rookie
+User: "some12hate" PSN: "wtr190788793" Country: "Netherlands" Status: rookie
+User: "oldguy58" PSN: "Gnome_V8" Country: "USA" Status: rookie
+User: "gilead" PSN: "harmoniousharm" Country: "UK" Status: rookie
+User: "GT_No1" PSN: "GT_No1" Country: "UK" Status: rookie
+## Week 51 ## 19 Dec 2017 ##
+User: "Sharper" PSN: "sharpersin" Country: "USA" Status: rookie
+User: "Nolinar" PSN: "Nolinar" Country: "Netherlands" Status: rookie
+User: "Malhucoprt" PSN: "malhucoprt" Country: "portugal" Status: rookie
+User: "_r_p_m_" PSN: "r__p__m__" Country: "UK" Status: rookie
+User: "Latosius" PSN: "Latosius" Country: "Uk" Status: rookie
+## Week 52 ## 25 Dec 2017 ##
+User: "THG_WHEELER34" PSN: "Root_158" Country: "New Zealand" Status: rookie
+User: "imortalrayn" PSN: "imotalrayn" Country: "England" Status: rookie
+User: "Phan61" PSN: "phan61gmail" Country: "NED" Status: rookie
+User: "gurdizz" PSN: "gurdizz" Country: "NL" Status: rookie
+User: "Herrybo79" PSN: "Herrybo" Country: "Germany" Status: rookie
+User: "MBarry" PSN: "Matt_m8__" Country: "Canada" Status: rookie
+User: "Tom Burgin" PSN: "tgburgin" Country: "UK" Status: rookie
+## imported ##
+#User: "Adam41" PSN: "GTP_Aderrrm" Country: "PSN" Status: rookie
+User: "Sig1611" PSN: "Sig1611" Country: "PSN" Status: rookie
+User: "monoha" PSN: "monoha" Country: "Denmark" Status: rookie
+User: "DGiant2000" PSN: "GTP_DGiant2000" Country: "PSN" Status: rookie
+User: "Ren" PSN: "GTP_Ren" Country: "South Africa" Status: rookie
+User: "markyboy92" PSN: "GTP_Markyboy" Country: UK Status: rookie
+
+## Week 01 ## 1 Jan 2018 ##
+User: "haxjon" PSN: "Kaprekorn" Country: "Philppines" Status: rookie
+User: "KRDracing" PSN: "KRDracing" Country: "USA" Status: rookie
+User: "gambino" PSN: "d3lilbrd" Country: "Croatia" Status: rookie
+User: "Nardelli" PSN: "Znardelli" Country: "USA" Status: rookie
+User: "banckzy" PSN: "banckzy" Country: "UK" Status: rookie
+User: "Rossi1000" PSN: "Rossi1000" Country: "UK" Status: rookie
+User: "Double_Apex" PSN: "Double_Apex" Country: "USA" Status: rookie
+User: "andrewsufc91" PSN: "andrewsufc91" Country: "UK" Status: rookie
+## Week 02 ## 8 Jan 2018 ##
+User: "vDIRTYJ3RZv" PSN: "vDIRTYJ3RZv" Country: "USA" Status: rookie
+User: "geeTeye" PSN: "GTP_geeTeye" Country: "South Africa" Status: rookie
+User: "hznbrq" PSN: "hznbrq" Country: "USA" Status: rookie
+User: "Spurgy 777" PSN: "TRL_Spurgy777" Country: "UK" Status: rookie
+User: "ColinNZ" PSN: "colinnola" Country: "NZL" Status: rookie
+User: "Tristan Jones" PSN: "Jonesy82360" Country: "AUS" Status: rookie
+User: "Pacifier" PSN: "GameRXPacifieR" Country: "India" Status: rookie
+User: "phineas777" PSN: "ace77747" Country: "Australia" Status: rookie
+User: "Storm_SP17" PSN: "StormPacer" Country: "UK" Status: rookie
+User: "field246" PSN: "field246" Country: "USA" Status: rookie
+User: "Sinyster" PSN: "SinysterPlague" Country: "USA" Status: rookie
+User: "gren1414" PSN: "gren1414" Country: "USA" Status: rookie
+## Week 03 ## 15 Jan 2018 ##
+User: "Koutch_Pro" PSN: "KOUTCH_PRO" Country: "NLD" Status: rookie
+User: "A_5_Speed" PSN: "A_5_Speed" Country: "USA" Status: rookie
+User: "Harry munk" PSN: "Harrymunk86" Country: "England" Status: rookie
+User: "dranddad" PSN: "GTP_Eriba" Country: England Status: rookie
+User: "oamoShotya" PSN: "oamoShotya" Country: "Norway" Status: rookie
+User: "Sofia Speed" PSN: "SOFIA_SPEED" Country: "BRASIL" Status: rookie
+User: "johnny snooks" PSN: "SNOOKSY89" Country: "United Kingdom" Status: rookie
+User: "Sean Renon" PSN: "MalevolentFather" Country: "Canada" Status: rookie
+User: "MikeV27" PSN: "MikeV27" Country: "Canada" Status: rookie
+User: "BigDawg_1281" PSN: "BigDawg_1281" Country: "USA" Status: rookie
+## Week 04 ## 23 Jan 2018 ##
+User: "Tecticles" PSN: "Tec1347" Country: "USA" Status: rookie
+User: "MikeyLCR" PSN: "MikeyLCR" Country: "UK" Status: rookie
+## Week 05 ## 29 Jan 2018 ##
+User: "Bramsboyz" PSN: "Bramsboyz" Country: "Canada" Status: rookie
+User: "BradESPN" PSN: "BradESPN" Country: "USA" Status: rookie
+User: "Theaffliction" PSN: "TheAffliction_13" Country: "USA" Status: rookie
+User: "BuddhaMonk777" PSN: "BuddhaMonk777" Country: "Belgium" Status: rookie
+User: "Alpha Cipher" PSN: "VQS_Epitome" Country: "Singapore" Status: rookie
+User: "MrCooper" PSN: "MrCooper77" Country: "Switzerland" Status: rookie
+User: "RACECAR" PSN: "GTP_RACECAR" Country: "USA" Status: rookie
+## Week 06 ## 6 Feb 2018 ##
+User: "ConnorWolf" PSN: "ConnorWolf" Country: "USA" Status: rookie
+User: "NoFinClue" PSN: "NoFinClue" Country: "UK" Status: rookie
+User: "TK_Racing88" PSN: "NorthernLight80" Country: "Norway" Status: rookie
+## Week 07 ## 12 Feb 2018 ##
+User: "HAD2" PSN: "HAD_2_GAT_YA" Country: "UK" Status: rookie
+## Week 08 ## 19 Feb 2018 ##
+User: "ForzaZach" PSN: "zachfromkansas" Country: "USA" Status: rookie
+User: "jhietter" PSN: "jhietter" Country: "USA" Status: rookie
+User: "rally_max" PSN: "rally-max" Country: "USA" Status: rookie
+User: "Manthing" PSN: "MANTHlNG" Country: "USA" Status: rookie
+User: "Antek" PSN: "AnTeK-79" Country: "ESP (spain)" Status: rookie
+User: "Iceman_2003" PSN: "the_iceman_2003" Country: "UK" Status: rookie
+User: "seamaster gmt" PSN: "RACEFAN007" Country: "USA" Status: rookie
+User: "daan" PSN: "GTP_daan" Country: "UK" Status: rookie
+User: "jasguer" PSN: "lowlyfe45" Country: "USA" Status: rookie
+User: "potvinsuks" PSN: "potvinsuks" Country: "USA" Status: rookie
+User: "Hasassin_X" PSN: "Hasassin_X" Country: "USA" Status: rookie
+User: "chunkybeef103" PSN: "chunkybeef103" Country: "USA" Status: rookie
+User: "Goldomor" PSN: "Goldomor" Country: "Germany" Status: rookie
+User: "Ferrari275" PSN: "ferrari275" Country: "USA" Status: rookie
+User: "kowalski__1" PSN: "Kowalski__1" Country: "Canada" Status: rookie
+User: "Raw10_2u" PSN: "Raw10_2u" Country: "USA" Status: rookie
+User: "ERAZER" PSN: "TRL_ERAZER" Country: "Sweden" Status: rookie
+User: "Ramalhinho91" PSN: "Ramalhinho91" Country: "Portugal" 
+User: "Ichko" PSN: "patenceto81" Country: "UK" Status: rookie
+## Week 09 ## 26 Feb 2018 ##
+User: "Wardez" PSN: "Wardez" Country: "USA" Status: rookie
+User: "CrazyJohn" PSN: "CrazyJohnIsHere" Country: "Greece" Status: rookie
+User: "SwOil" PSN: "SwOil" Country: "Sweden" Status: rookie
+User: "ticeb_nl" PSN: "ticeb_nl" Country: "NETHERLANDS" Status: rookie
+User: "DeltaJuliet" PSN: "DeltaJulietMike" Country: "UK" Status: rookie
+User: "Strax" PSN: "Falken-N7" Country: "Italy" Status: rookie
+User: "Nicktune" PSN: "Nic-KL" Country: "CAN" Status: rookie
+## Week 10 ## 5 Mar 2018 ##
+User: "gmeful2" PSN: "clg73" Country: "USA" Status: rookie
+User: "Lazybike" PSN: "lazybike" Country: "GB" Status: rookie
+User: "winet" PSN: "sparad388" Country: "USA" Status: rookie
+User: "Faulkie87" PSN: "uncle_davey" Country: "Australia" Status: rookie
+## Week 11 ## 13 Mar 2018 ##
+User: "KONTRAone" PSN: "KONTRAone" Country: "USA" Status: rookie
+User: "The Grim Reaper" PSN: GTP_Grim_Reaper Country: England Status: rookie
+User: "The Cake" PSN: "CAKACOOL" Country: "NORWAY" Status: rookie
+User: "nockel" PSN: "nockel_87" Country: "Germany" Status: rookie
+## Week 12 ## 22 Mar 2018 ##
+User: "SHashem_" PSN: "I5IHI4IUINI" Country: "BAHRAIN" Status: rookie
+## Week 13 ## 26 Mar 2018 ##
+User: "Tim Gamber" PSN: "daddyg2016" Country: "USA" Status: rookie
+User: "SANDWICHTRUCK" PSN: "SANDWICHTRUCK" Country: "USA" Status: rookie
+User: "skydragon49" PSN: "blacksky37" Country: "Brazil" Status: rookie
+User: "Hasnain282" PSN: "Hasnain282" Country: "United Kingdom" Status: rookie
+User: "Hellbringer69" PSN: "Hellbringer2m6" Country: "USA" Status: rookie
+User: "Nikkottine" PSN: "Nikkottine" Country: "Portugal" Status: rookie
+User: "Sutsagrd" PSN: "Sutsagrd" Country: "UK" Status: rookie
+## Week 14 ## 3 Apr 2018 ##
+User: "Limborghini" PSN: "GTP_Lim" Country: "Canada" Status: rookie
+User: "eggmann" PSN: "eggmann_gtbn" Country: "USA" Status: rookie
+User: "kart.no.38" PSN: "gtp_davidperel" Country: "UK" Status: rookie
+User: "Cowboy" PSN: "GTP_Cowboy" Country: "USA" Status: rookie
+## Week 15 ## 9 Apr 2018 ##
+User: "AmgAdam15" PSN: "AMGADAM15" Country: "UK" Status: rookie
+User: "Josh Compton" PSN: "Comptonn19" Country: "UK" Status: rookie
+User: "WhiteFlight1" PSN: "WhiteFlight1" Country: "Norway" Status: rookie
+User: "ashbest122" PSN: "ashbest122" Country: "UK" Status: rookie
+User: "Infernuz" PSN: "GiorgosGT7" Country: "Greece" Status: rookie
+## Week 16 ## 17 Apr 2018 ##
+User: "GTP_Versatile" PSN: "Setted" Country: "USA" Status: rookie
+## Week 17 ## 29 Apr 2018 ##
+User: "Nick Cannella" PSN: "nog3861" Country: "USA" Status: rookie
+User: "GTP_Guido" PSN: "GTP_Guido" Country: "Germany" Status: rookie
+User: "moeom" PSN: "BigMoMo101" Country: "Canada" Status: rookie
+## Week 18 ## 30 Apr 2018 ##
+User: "Vin Sinn" PSN: "Vintimidator" Country: "USA" Status: rookie
+## Week 19 ## 8 May 2018 ##
+User: "BIG CAROLINA" PSN: "BIGKC777" Country: "USA" Status: rookie
+User: "Dajiveturkey" PSN: "Dajiveturkey" Country: "United States" Status: rookie
+User: "xxxman1" PSN: "gt_manman1" Country: "UK" Status: rookie
+## Week 20 ## 14 May 2018 ##
+User: "LotusEvoraGTE" PSN: "LotusEvoraGTE" Country: "Australia" Status: rookie
+User: "AlexLion" PSN: "AlexXLionN" Country: "Italy" Status: rookie
+## Week 21 ## 21 May 2018 ##
+User: "Unitedwestand" PSN: "unitedwestand1" Country: "UK" Status: rookie
+## Week 22 ## 28 May 2018 ##
+User: "Shearzy" PSN: "Shearzy75" Country: "Canada" Status: rookie
+User: "Carbon_S15" PSN: "CarbonS15-YT" Country: "LTU" Status: rookie
+User: "Bellin" PSN: "bellin43" Country: "BEL" Status: rookie
+User: "Valkel" PSN: "Kelval37" Country: "BELGIUM" Status: rookie
+User: "LukasLTU17" PSN: "LukasLTU17" Country: "Lithuania" Status: rookie
+## Week 23 ## 4 Jun 2018 ##
+User: "VicS" PSN: "VicS_31" Country: "RUSSIA" Status: rookie
+User: "SOUL ON D3LAY" PSN: "GTP_ViperRS" Country: "USA" Status: rookie
+User: "Phd77" PSN: "p-h-d-77" Country: "UK" Status: rookie
+User: "GT Sport" PSN: "XarisMarti" Country: "Greece" Status: rookie
+## Week 24 ## 15 Jun 2018 ##
+User: "rkraider" PSN: "NightRaidr" Country: "USA" Status: rookie
+User: "DirtBagMagoo" PSN: "DirtBagMagoo" Country: "USA" Status: rookie
+## Week 25 ## 22 Jun 2018 ##
+User: "bigbeefytaco" PSN: "ERAUfan97" Country: "USA" Status: rookie
+User: "skaboy607" PSN: "Skaboy607" Country: "UK" Status: rookie
+## Week 26 ## 28 Jun 2018 ##
+User: "local_man1234" PSN: "local_man1234" Country: "FINLAND" Status: rookie
+## Week 27 ## 3 Jul 2018 ##
+User: "djoao" PSN: "djoao" Country: "PT" Status: rookie
+## Week 28 ## 9 Jul 2018 ##
+User: "jayr1399" PSN: "jayr11399" Country: "United States" Status: rookie
+## Week 29 ## 22 Jul 2018 ##
+User: "Rimass80" PSN: "RIMASS80" Country: "ITALY" Status: rookie
+## Week 30 ## 23 Jul 2018 ##
+User: "glamredhel69" PSN: "glamredhel69" Country: "UK" Status: rookie
+## Week 31 ## 30 Jul 2018 ##
+User: "MajorPile" PSN: "MajorPile" Country: "USA" Status: rookie
+User: "lopescj" PSN: "lopescj" Country: "Portugal" Status: rookie
+User: "General_Edead" PSN: "General_E_Dead3" Country: "United Kingdom" Status: rookie
+User: "hornet_burnout" PSN: "burnout_pt" Country: "Portugal" Status: rookie
+## Week 32 ## 8 Aug 2018 ##
+User: "DTimbrell" PSN: "DTIMBRELL" Country: "Wales" Status: rookie
+## Week 33 ## 15 Aug 2018 ##
+User: "JPNismo" PSN: "bparr23" Country: "UK" Status: rookie
+User: "Booger_Bomb" PSN: "Booger_Bomb" Country: "Canada" Status: rookie
+User: "MaRcvdl1" PSN: "MaRcvdl1" Country: "Netherlands" Status: rookie
+## Week 34 ## 20 Aug 2018 ##
+User: "tornadored2er" PSN: "chromCoupe" Country: "USA" Status: rookie
+User: "Small_Fryz" PSN: "Small_Fryz" Country: "Australia" Status: rookie
+User: "latefordate" PSN: "Late4date" Country: "USA" Status: rookie
+## Week 35 ## 27 Aug 2018 ##
+User: "Paul Young" PSN: "paulyoungone" Country: "UK" Status: rookie
+User: "cavela" PSN: "cavela" Country: "UK" Status: rookie
+User: "Danny11515" PSN: "Danny11515" Country: "United Kingdom" Status: rookie
+User: "mamare" PSN: "RobertoMaMaRe-_-" Country: "BRA" Status: rookie
+User: "awood2305" PSN: "Woodyrulz" Country: "UK" Status: rookie
+User: "Bruno Antunes" PSN: "JavaDuke" Country: "Portugal" Status: rookie
+## Week 36 ## 3 Sep 2018 ##
+User: "Stephan" PSN: "Filracer" Country: "Hong Kong" Status: rookie
+## Week 37 ## 12 Sep 2018 ##
+User: "K_Black" PSN: "Komunista_Black" Country: "USA" Status: rookie
+## Week 38 ## 20 Sep 2018 ##
+User: "Pigpin13" PSN: "Pigpin13" Country: "USA" Status: rookie
+## Week 39 ## 28 Sep 2018 ##
+User: "aydanmatthews" PSN: "Captain_Risky_21" Country: "Australia" Status: rookie
+## Week 40 ## 2 Oct 2018 ##
+User: "ildmle78" PSN: "ildmle78" Country: "Switzerland" Status: rookie
+User: "TwanDem87" PSN: "TwanDem" Country: "UK" Status: rookie
+## Week 41 ## 8 Oct 2018 ##
+User: "alifra" PSN: "GTP_alifra" Country: "USA" Status: rookie
+User: "GTP_MPower" PSN: "GTP_MPower" Country: None Status: rookie
+User: "jm79" PSN: "mannjonusa" Country: "USA" Status: rookie
+User: "zjarek12" PSN: "zjarek12" Country: "Poland" Status: rookie
+User: "B Top" PSN: "Hartopp80" Country: "UK" Status: rookie
+User: "Nelsonatormjn16" PSN: "MatthewNelson" Country: "UK" Status: rookie
+User: "MordFustang88" PSN: "MordFustang88" Country: "Croatia" Status: rookie
+User: "Diego Martins" PSN: "DIEGORM_RS" Country: "BRA" Status: rookie
+User: "fordlaser" PSN: "fordlaser777" Country: "Austrialia" Status: rookie
+User: "Videx" PSN: "VidexD" Country: "POR" Status: rookie
+User: "GTP_RS172" PSN: "RS172" Country: "Australia" Status: rookie
+## Week 42 ## 19 Oct 2018 ##
+User: "Liam layson" PSN: "Liam6laysongt" Country: "UK" Status: rookie
+## Week 43 ## 24 Oct 2018 ##
+User: "Gordy749" PSN: "Gordy749" Country: "USA" Status: rookie
+## Week 44 ## 30 Oct 2018 ##
+User: "Frizbe" PSN: "Frizbe" Country: "USA" Status: rookie
+User: "GTP_Bambi" PSN: "GTP_Bambi" Country: "USA" Status: rookie
+## Week 45 ## 6 Nov 2018 ##
+User: "NaketWookie" PSN: "TheNaketWookie" Country: "Germany" Status: rookie
+User: "a1ienpsp" PSN: "onelastl33t" Country: "Malaysia" Status: rookie
+User: "hanter_1989" PSN: "hanter_1989" Country: "Russia" Status: rookie
+User: "Garthaniel86" PSN: "Garthaniel1986" Country: "USA" Status: rookie
+User: "Saur" PSN: "marky470" Country: "USA" Status: rookie
+## Week 47 ## 19 Nov 2018 ##
+User: "M3AMI" PSN: "xM3AMIx" Country: "USA" Status: rookie
+User: "BSerious18L" PSN: "B-Serious18L" Country: "USA" Status: rookie
+## Week 48 ## 26 Nov 2018 ##
+User: "Max3biaggi" PSN: "Max3biaggi" Country: "Uk" Status: rookie
+User: "zortation" PSN: "zortation" Country: "Canada" Status: rookie
+User: "ESC_BED_Boy" PSN: "Bedstedfar_Boy" Country: "Denmark" Status: rookie
+## Week 49 ## 4 Dec 2018 ##
+User: "MightyXiphos" PSN: "TheMightyXiphos" Country: "UK" Status: rookie
+User: "YRS2703" PSN: "YRS_2003" Country: "UAE" Status: rookie
+## Week 51 ## 18 Dec 2018 ##
+User: "si_berian_tiger" PSN: "si_berian_tiger" Country: "United Kingdom" Status: rookie
+User: "Schmiggz" PSN: "Schmiggz" Country: "Canada" Status: rookie
+## Week 52 ## 26 Dec 2018 ##
+User: "SjefGielen" PSN: "Puppy71" Country: "The Netherlands" Status: rookie
+User: "CristobalH" PSN: "CristobalHolmes" Country: "UK" Status: rookie
+## Week 02 ## 13 Jan 2019 ##
+User: "Manic_pete" PSN: "Manic_Pete" Country: "UK" Status: rookie
+## Week 03 ## 15 Jan 2019 ##
+User: "WestRoadZ" PSN: "WestRoadZ-AUS" Country: "Australia" Status: rookie
+User: "Lightspeed710" PSN: "Lightspeed710" Country: "UK" Status: rookie
+User: "Florian Kolle" PSN: "Flava_Flo80" Country: "Thailand" Status: rookie
+## Week 04 ## 21 Jan 2019 ##
+User: "Pucho_Bagn1s" PSN: "Pucho_Bagn1s" Country: "USA" Status: rookie
+User: "GTP_Champ" PSN: "GTP_Champ" Country: "USA" Status: rookie
+User: "bendyfingers" PSN: "bendyfingers" Country: "UK" Status: rookie
+## Week 06 ## 7 Feb 2019 ##
+User: "Phlano099" PSN: "Phlano_099" Country: "USA" Status: rookie
+User: "Karminio" PSN: "Karminio_79" Country: "Italy" Status: rookie
+User: "dudkoMTKM" PSN: "DagumiTofuboy86" Country: "Slovakia" Status: rookie
+## Week 07 ## 12 Feb 2019 ##
+User: "Rivanov" PSN: "RivanovNL" Country: "Netherlands" Status: rookie
+User: "Philtaylor17" PSN: "philtaylor17" Country: "United Kingdom" Status: rookie
+User: "Kiki_Haoru" PSN: "Kiki_Haoru" Country: "France" Status: rookie
+## Week 08 ## 18 Feb 2019 ##
+User: "Klipsh1087" PSN: "KLIPSH1087" Country: "USA" Status: rookie
+## Week 09 ## 1 Mar 2019 ##
+User: "Xlxy90" PSN: "xlxy90" Country: "AUS" Status: rookie
+User: "SlurMcGurr" PSN: "SlurMcGurr" Country: "USA" Status: rookie
+## Week 10 ## 5 Mar 2019 ##
+User: "TommyGP3" PSN: "TommyGP3" Country: "Norway" Status: rookie
+User: "Thotozam AZ-1" PSN: "Thotozam_AZ-1" Country: "USA" Status: rookie
+## Week 11 ## 12 Mar 2019 ##
+User: "nejmarofrivia" PSN: "nejmar_of_rivia" Country: "Cyprus" Status: rookie
+User: "DamnAwesome" PSN: "DamnAwesome" Country: "BEL" Status: rookie
+User: "Lewis Calt" PSN: "CapnJack27" Country: "UK" Status: rookie
+## Week 12 ## 18 Mar 2019 ##
+User: "Rusty Clark" PSN: "G8GTDRIVER" Country: "USA" Status: rookie
+User: "GazCBG" PSN: "GazCBG" Country: "UK" Status: rookie
+User: "doblocruiser" PSN: "P308R" Country: "FRANCE" Status: rookie
+User: "JarreauPique" PSN: "Knight_JG96" Country: "NL" Status: rookie
+## Week 14 ## 1 Apr 2019 ##
+User: "Rick Bohart" PSN: "P_OCO_" Country: "USA" Status: rookie
+User: "YottaMol" PSN: "YottaMol" Country: "Spain" Status: rookie
+## Week 16 ## 16 Apr 2019 ##
+User: "LK0299" PSN: "LK0299" Country: "Canada" Status: rookie
+## Week 17 ## 22 Apr 2019 ##
+User: "BGCaligula" PSN: "BadGuyCaligula" Country: "USA" Status: rookie
+## Week 19 ## 7 May 2019 ##
+User: "QTip8329Wags" PSN: "Q-Tip8329Wags" Country: "U.S.A." Status: rookie
+User: "SuperMegaGeek" PSN: "SuperMegaGeek" Country: "Scotland" Status: rookie
+## TEMP
+User: "mattinahat99" PSN: "mattinahat99" Country: "unknown" Status: rookie
+#User: "JOJAICHO" PSN: "JOJAICHO" Country: "unknown" Status: rookie
+## Week 20 ## 13 May 2019 ##
+User: "@nndr3w" PSN: "PapaSierra4" Country: "UK" Status: rookie
+User: "bil coz" PSN: "JOJAICHO" Country: "THAILAND" Status: rookie
+User: "Matt Jones" PSN: "mattinahat99" Country: "UK" Status: rookie
+User: "G2G1950" PSN: "G2G1950" Country: "Netherlands" Status: rookie
+## Week 21 ## 22 May 2019 ##
+User: "Pigems" PSN: "CnF_Pigems" Country: "Canada" Status: rookie
+## Week 23 ## 3 Jun 2019 ##
+User: "Sjokkomoes" PSN: "Sjokkomoes" Country: "Netherlands" Status: rookie
+User: "Mike11" PSN: "PeacefulXplosion" Country: "UK" Status: rookie
+## Week 24 ## 15 Jun 2019 ##
+User: "BautinhoKT" PSN: "BautinhoKT" Country: "GER" Status: rookie
+## Week 27 ## 3 Jul 2019 ##
+User: "Rizla" PSN: "Sid_Neigh" Country: "UK" Status: rookie
+## Week 28 ## 9 Jul 2019 ##
+User: "Dux1892" PSN: "Dux1892" Country: "Croatia" Status: rookie
+User: "boubou1" PSN: "biotron9427" Country: "France" Status: rookie
+User: "Vipin Trisal" PSN: "megamind_1984" Country: "INDIA" Status: rookie
+## Week 29 ## 15 Jul 2019 ##
+User: "Aron Baker" PSN: "AB_Saints_25" Country: "Australia" Status: rookie
+User: "Garrett Gomes" PSN: "The_Egger" Country: "USA" Status: rookie
+## Week 30 ## 25 Jul 2019 ##
+User: "Xtr3meNZer" PSN: "Xtr3meNZer" Country: "NZ" Status: rookie
+User: "Maara_89" PSN: "maara_89" Country: "CZE" Status: rookie
+## Week 32 ## 11 Aug 2019 ##
+User: "Jolumafe" PSN: "Jolumafe1967" Country: "Spain" Status: rookie
+## Week 33 ## 15 Aug 2019 ##
+User: "NASCARNATE91" PSN: "NASCARNATE99" Country: "USA" Status: rookie
+User: "Jpelias305" PSN: "Jpelias305" Country: "USA" Status: rookie
+## Week 40 ## 5 Oct 2019 ##
+User: "JurassicMould" PSN: "JurassicMould" Country: "United Kingdom" Status: rookie
+## Week 41 ## 10 Oct 2019 ##
+User: "Nuschel01" PSN: "GTP_Nuschel" Country: "Germany" Status: rookie
+## Week 42 ## 16 Oct 2019 ##
+User: "Herimopp89" PSN: "Herimopp89" Country: "USA" Status: rookie
+User: "CPT_RowdyGiff" PSN: "CPT_RowdyGiff" Country: "USA" Status: rookie
+User: "JjKk_jjkk" PSN: "javrkhan" Country: "UK" Status: rookie
+User: "Pearl Jam" PSN: "Neil-PearlJam" Country: "UK" Status: rookie
+## Week 43 ## 25 Oct 2019 ##
+User: "joseph connor" PSN: "seosamh77" Country: "UK" Status: rookie
+## Week 44 ## 29 Oct 2019 ##
+User: "Drummer79" PSN: "Drummmer1979" Country: "USA" Status: rookie
+User: "Trc76" PSN: "Sokr8tez76" Country: "Canada" Status: rookie
+## Week 45 ## 5 Nov 2019 ##
+User: "jamesaflee" PSN: "jamesaflee" Country: "Australia" Status: rookie
+User: "Spike Vale" PSN: "zooobear84" Country: "South Africa" Status: rookie
+## Week 46 ## 11 Nov 2019 ##
+User: "Pelikan" PSN: "GTPelikan" Country: "USA" Status: rookie
+User: "Sven Jurgens" PSN: "SvennoJ" Country: "Canada" Status: rookie
+User: "Dairyworker" PSN: "Slatanic1" Country: "Canada" Status: rookie
+User: "NosOsH" PSN: "TPC_NosOsH" Country: "CANADA" Status: rookie
+User: "The_Tullster" PSN: "TPC_Fudsy" Country: "Australia" Status: rookie
+User: "Unknown_Alien" PSN: "Unknown_Alien05" Country: "AUSTRALIA" Status: rookie
+User: "gatordaryl" PSN: "gatordaryl" Country: "USA" Status: rookie
+User: "Leftcurl" PSN: "TPC-LEFTCURL" Country: "UK" Status: rookie
+User: "Granadier" PSN: "TPC_Granadier" Country: "USA" Status: rookie
+User: "MiPa" PSN: "Thombat_One" Country: "GERMANY" Status: rookie
+User: "Kevstah2004" PSN: "TPC_Kevstah2004" Country: "UK" Status: rookie
+## Week 47 ## 18 Nov 2019 ##
+User: "Killkennyxc4" PSN: "killkennyxc4" Country: "USA" Status: rookie
+User: "big_divvy" PSN: "big_divvy" Country: "United Kingdom" Status: rookie
+User: "Groundfish" PSN: "sebastes742137" Country: "USA" Status: rookie
+User: "Pied2k" PSN: "T-GTCQ_Pied2k" Country: "Canada" Status: rookie
+User: "Zro3600" PSN: "GBreadman3600" Country: "USA" Status: rookie
+User: "notime72" PSN: "NooTiMe72" Country: "USA" Status: rookie
+User: "rsrgse" PSN: "rsrgse" Country: "USA" Status: rookie
+User: "AntCasillo11" PSN: "AntCasillo11" Country: "Italy" Status: rookie
+User: "Hygrade B" PSN: "hygrade-b" Country: "Jamaica" Status: rookie
+User: "TurboTacho" PSN: "TurboTacho" Country: "Singapore" Status: rookie
+User: "PsycoPhoenix" PSN: "TBN_PsycoPhoenix" Country: "USA" Status: rookie
+User: "ToddSalad" PSN: "G_Stone899" Country: "USA" Status: rookie
+User: "FloridaFanGT" PSN: "SidOri99" Country: "USA" Status: rookie
+User: "Bivittavus88" PSN: "El_Beardo_Grande" Country: "UK" Status: rookie
+## Week 48 ## 25 Nov 2019 ##
+User: "Fremre_rille" PSN: "Fremre_rille" Country: "Norway" Status: rookie
+User: "Aachenboy" PSN: "Woeschelter_Jong" Country: "GERMANY" Status: rookie
+## Week 49 ## 2 Dec 2019 ##
+User: "Sapphonix" PSN: "Sapphonix" Country: "USA" Status: rookie
+User: "CANOWORMS1" PSN: "Canoworms1" Country: "Canada" Status: rookie
+## Week 50 ## 13 Dec 2019 ##
+User: "speed_master" PSN: "speed_bumpmaster" Country: "USA" Status: rookie
+## Week 51 ## 22 Dec 2019 ##
+User: "Derek6372" PSN: "derek870" Country: "UK" Status: rookie
+## Week 52 ## 26 Dec 2019 ##
+User: "Mikael Fang" PSN: "MICKEFANG1982" Country: "SWEDEN" Status: rookie
+User: "Efing8" PSN: "Ohmud" Country: "USA" Status: rookie
+User: "Gregormeister" PSN: "Gregormeister" Country: "Germany" Status: rookie
+User: "brockie" PSN: "BROCKYBROCK" Country: "UK" Status: rookie
+User: "AWaz77" PSN: "AWaz77" Country: "Wales, UK" Status: rookie
+User: "teebone" PSN: "bonedaddy42069" Country: "CANADA" Status: rookie
+User: "GOTMAXPOWER" PSN: "GOTMAXPOWER" Country: "UK" Status: rookie
+## Week 01 ## 30 Dec 2019 ##
+User: "Qyn" PSN: "TPC_QYN73" Country: "USA" Status: rookie
+User: "Oli fletcher" PSN: "GTRc_LaFletch_18" Country: "United Kingdom" Status: rookie
+User: "darknautica" PSN: "darknautica" Country: "Australia" Status: rookie
+User: "DooN" PSN: "Doon_" Country: "USA" Status: rookie
+## Week 03 ## 17 Jan 2020 ##
+User: "Project_Crimson" PSN: "spazmos" Country: "New Zealand" Status: rookie
+User: "Adam Barber" PSN: "GTP_Abarber95" Country: "UK" Status: rookie
+User: "Rush471" PSN: "Rush471" Country: "Canada" Status: rookie
+## Week 04 ## 20 Jan 2020 ##
+User: "ice_justy" PSN: "ice_justy" Country: "Canada" Status: rookie
+User: "Andy Lapi" PSN: "alp776" Country: "France" Status: rookie
+## Week 06 ## 3 Feb 2020 ##
+User: "Nyervek" PSN: "Nyervek" Country: "Argentina" Status: rookie
+## Week 08 ## 18 Feb 2020 ##
+User: "DerDoc" PSN: "Doc-SG" Country: "Germany" Status: rookie
+# Week 09 ## 28 Feb 2020 ##
+User: "GTP Mojo Toker" PSN: "Mojo_Toker" Country: "Canada" Status: rookie
+User: "NotFujiwara48" PSN: "ShadowRockstar13" Country: "SGP" Status: rookie
+## Week 11 ## 12 Mar 2020 ##
+User: "Blahdadah" PSN: "Blahdadah" Country: "USA" Status: rookie
+User: "PoshPenguino" PSN: "PoshPenguino" Country: "UK" Status: rookie
+User: "GtpDMO208" PSN: "Speed_Racer1973" Country: "Australia" Status: rookie
+User: "Ajoe_1234" PSN: "Ajoe_1234" Country: "USA" Status: rookie
+User: "murch" PSN: "murch_c" Country: "Canada" Status: rookie
+## Week 12 ## 18 Mar 2020 ##
+User: "MattJoy" PSN: "mattjoy1986" Country: "UK" Status: rookie
+User: "Sbartak" PSN: "SBartak" Country: "Ireland" Status: rookie
+User: "LST" PSN: "Duce_LST" Country: "USA" Status: rookie
+## Week 13 ## 23 Mar 2020 ##
+User: "rbkLanny" PSN: "rbkLanny" Country: "Canada" Status: rookie
+User: "Scaryguy4u2" PSN: "Scaryguy4u2" Country: "USA" Status: rookie
+User: "nuthunmuch" PSN: "nuthunmuch" Country: "Canada" Status: rookie
+User: "R0N W0FFLE" PSN: "R0N_W0FFLE" Country: "UK" Status: rookie
+User: "Ouchx100" PSN: "ouchx100" Country: "USA" Status: rookie
+User: "Harmy2010" PSN: "Harmy2010" Country: "UK" Status: rookie
+User: "Wolfgang_dwr" PSN: "dwallreilly" Country: "USA" Status: rookie
+User: "TripleN81" PSN: "TripleN81" Country: "Denmark" Status: rookie
+User: "Hobie199" PSN: "Hobie199" Country: "Denmark" Status: rookie
+User: "raxiom8" PSN: "raxiom8" Country: "AUS" Status: rookie
+User: "Hotlove6" PSN: "Hotlove6" Country: "UK" Status: rookie
+User: "Pirulito71" PSN: "pirulito71" Country: "Portugal" Status: rookie
+User: "Deivydas" PSN: "dividi157" Country: "United Kingdom" Status: rookie
+User: "Mayhexx" PSN: "MayhexxGT" Country: "USA" Status: rookie
+User: "mattcharter" PSN: "mattcharter" Country: "UK" Status: rookie
+User: "Zsolt Endredy" PSN: "R4M_Reaper_Zorp" Country: "UK" Status: rookie
+## Week 14 ## 30 Mar 2020 ##
+User: "Yavuz Murat" PSN: "Suleyman_TR" Country: "Turkey" Status: rookie
+User: "Carcanon" PSN: "Carcanon" Country: "The Netherlands" Status: rookie
+User: "Schosse" PSN: "Schosse12" Country: "GER" Status: rookie
+User: "Pedrostein1" PSN: "pedrorosso61" Country: "Austria" Status: rookie
+## Week 15 ## 6 Apr 2020 ##
+User: "BEstillCAT" PSN: "aclem05" Country: "Australia" Status: rookie
+User: "Uvmadman" PSN: "uvmadman" Country: "south africa" Status: rookie
+User: "Daniel Stumpp" PSN: "MitZuckerguss" Country: "Germany" Status: rookie
+User: "RayCarter" PSN: "RayCarter" Country: "South Africa" Status: rookie
+User: "Tsuchiya_19" PSN: "Tsuchiya-19" Country: "UK" Status: rookie
+User: "FrenzKTM" PSN: "FrenzKTM" Country: "Germany" Status: rookie
+User: "AleRugani2293" PSN: "ALE2293" Country: "Italy" Status: rookie
+User: "half_sourly" PSN: "half_sourly" Country: "UK" Status: rookie
+User: "smoovebert" PSN: "Smvbrt" Country: "USA" Status: rookie
+## Week 16 ## 14 Apr 2020 ##
+User: "LostJanner" PSN: "CnF_LostJanner" Country: "Germany" Status: rookie
+User: "KybernetCZ" PSN: "Scrat-Dobaledova" Country: "Czech Republic" Status: rookie
+## Week 17 ## 21 Apr 2020 ##
+User: "ciokanu" PSN: "ciokanu" Country: "Romania" Status: rookie
+User: "U4IK ST8" PSN: "GTP_U4IK" Country: Ireland Status: rookie 
+User: "huzeyfe34" PSN: "huzeyfe34" Country: "Turkey" Status: rookie
+User: "Stryker13" PSN: "DrSpyderPig" Country: "Canada" Status: rookie
+## Week 18 ## 30 Apr 2020 ##
+User: "ProtonGSX1" PSN: "ProtonGSX1" Country: "UK" Status: rookie
+User: "Emilius_73" PSN: "Emilius73" Country: "MEX" Status: rookie
+## Week 19 ## 4 May 2020 ##
+User: "DSM_driver" PSN: "DSMdriver" Country: "CAN" Status: rookie
+User: "bowman_ninja" PSN: "bowman_ninja" Country: "UK" Status: rookie
+User: "Till_M" PSN: "mobONe83" Country: "Germany" Status: rookie
+## Week 20 ## 12 May 2020 ##
+User: "posi_wavE" PSN: "posi-wavE" Country: "UK" Status: rookie
+User: "Furryhobn0b" PSN: "furyhobn0b" Country: "UK" Status: rookie
+User: "Jay_Dammit" PSN: "Jay_dammit" Country: "UK" Status: rookie
+User: "SpacemanSpif" PSN: "GTP_Spiff" Country: "USA" Status: rookie
+## Week 21 ## 20 May 2020 ##
+User: "Rambo_Jambo" PSN: "wesmacdon" Country: "UK" Status: rookie
+User: "BeerNfrites" PSN: "BeerNfrites" Country: "UK" Status: rookie
+User: "Sphinx" PSN: "GTP_Sphinx" Country: "UK" Status: rookie
+## Week 22 ## 28 May 2020 ##
+User: "Lucky_GT92" PSN: "Lucky_GT92" Country: "Netherlands" Status: rookie
+## Week 23 ## 1 Jun 2020 ##
+User: "Tyre King" PSN: "Ballstothewall1" Country: "UK" Status: rookie
+User: "Mr Miyagi" PSN: "shnargle91" Country: "Australia" Status: rookie
+User: "DerGeraet" PSN: "DerGeraet_op-ts" Country: "Germany" Status: rookie
+## Week 24 ## 8 Jun 2020 ##
+User: "RicinKrispies" PSN: "RicinKrispies" Country: "UK" Status: rookie
+## Week 26 ## 28 Jun 2020 ##
+User: "morsecode" PSN: "GTP_MORSECODE79" Country: "UK" Status: rookie
+## Week 27 ## 29 Jun 2020 ##
+User: "PauloRufo25" PSN: "GTP_PauloRufo25" Country: "Portugal" Status: rookie
+## Week 28 ## 6 Jul 2020 ##
+User: "carlrgn" PSN: "carlrgn" Country: "Philippines" Status: rookie
+User: "Draven_RG" PSN: "DravenRedgrave" Country: "Lithuania" Status: rookie
+User: "refjuuz" PSN: "refjuuz" Country: "Latvia" Status: rookie
+User: "Ivanzypher" PSN: "VYPER_667" Country: "USA" Status: rookie
+## Week 29 ## 13 Jul 2020 ##
+User: "amf7" PSN: "AMF7F1" Country: "UK" Status: rookie
+User: "betanumerical" PSN: "Betanumeric" Country: "Australia" Status: rookie
+## Week 31 ## 1 Aug 2020 ##
+User: "G_TheSaint_" PSN: "G_TheSaint_" Country: "Italy" Status: rookie
+## Week 33 ## 11 Aug 2020 ##
+User: "chadryce" PSN: "dooniedoons" Country: "Australia" Status: rookie
+## Week 34 ## 20 Aug 2020 ##
+User: "PandemicRacer" PSN: "PandemicRacer" Country: "UK" Status: rookie
+## Week 42 ## 15 Oct 2020 ##
+User: "barak181" PSN: "MonyB" Country: "USA" Status: rookie
+## Week 43 ## 20 Oct 2020 ##
+User: "Langserud" PSN: "Langserud" Country: "SWEDEN" Status: rookie
+User: "Steve Ball" PSN: "brewersteve" Country: "UK" Status: rookie
+User: "Nsubordinate" PSN: "Nsubordinate73" Country: "Germany" Status: rookie
+## Week 44 ## 31 Oct 2020 ##
+User: "BigHead" PSN: "dandanpla" Country: "BRA" Status: rookie
+## Week 47 ## 16 Nov 2020 ##
+User: "Timm Sheehan" PSN: "tmsheehan" Country: "USA" Status: rookie
+User: "GTP_Jonjig" PSN: "GTP_jonjig" Country: "UK" Status: rookie
+#User: "Dynamic" PSN: "Dynamic" Country: "United Kingdom" Status: rookie
+## Week 06 ## 9 Feb 2021 ##
+User: "OnlyOne07" PSN: "OnlyOne07" Country: "Spain" Status: rookie
+## Week 07 ## 16 Feb 2021 ##
+User: "MidnightRun85" PSN: "Z4E_Midnight85" Country: "UK" Status: rookie
+## Week 12 ## 25 Mar 2021 ##
+User: "kwentyne" PSN: "KingKwentyne" Country: "USA" Status: rookie
+## Week 13 ## 29 Mar 2021 ##
+User: "Alex Heine" PSN: "MR_PIGGY2002" Country: "UK" Status: rookie
+## Week 17 ## 28 Apr 2021 ##
+User: "StoredBart" PSN: "StoredBart" Country: "United Kingdom" Status: rookie
+User: "dscinabox" PSN: "dscinabox" Country: "Portugal" Status: rookie
+## Week 34 ## 24 Aug 2021 ##
+User: "minolta01" PSN: "GTP_minolta01" Country: "Italy" Status: rookie
+## Week 37 ## 13 Sep 2021 ##
+User: "BitsofData" PSN: "BitsofData" Country: "USA" Status: rookie
+User: "Jav1" PSN: "Mogoyon" Country: "USA" Status: rookie
+## Week 45 ## 11 Nov 2021 ##
+User: "GTP_The_42" PSN: "GTP_The_42" Country: "Brazil" Status: rookie
+## Week 48 ## 1 Dec 2021 ##
+User: "HELLBOUNDIVER" PSN: "HELLBOUNDIVER" Country: "USA" Status: rookie
+## Week 06 ## 13 Feb 2022 ##
+User: "Black_Seal" PSN: "Black_Seal" Country: "Scotland" Status: rookie
+## Week 10 ## 9 Mar 2022 ##
+User: "JonCitzen" PSN: "JonCitizen" Country: "Australia" Status: rookie
+## Week 14 ## 7 Apr 2022 ##
+User: "Burkeboy" PSN: "BurkeboyBerger" Country: "Mexico" Status: rookie
+User: "Yttrium99" PSN: "Yttrium99" Country: "USA" Status: rookie
+## Week 15 ## 11 Apr 2022 ##
+User: "Chrome_PuPXD" PSN: "Chrome_PuPXD" Country: "UK" Status: rookie
+User: "Valex" PSN: "Valex997" Country: "Argentina" Status: rookie
+User: "Daniel Kaplan" PSN: "BrokenArrw74" Country: "USA" Status: rookie
+User: "e30318is" PSN: "Titchy8" Country: "AUS" Status: rookie
+User: "max351" PSN: "Maxscapes" Country: "BELGIUM" Status: rookie
+User: "Adam41" PSN: "WilliamsJIM_Adam" Country: "UK" Status: rookie
+User: "1gorFraga" PSN: "IOF_RACING17" Country: "Brazil" Status: rookie
+User: "DozUk" PSN: "DozUK" Country: "UK" Status: rookie
+User: "Track_King47" PSN: "Track_King47" Country: "USA" Status: rookie
+User: "Jordan" PSN: "GTP_Jordan" Country: "USA" Status: rookie
+User: "pburford" PSN: "pburford" Country: "UK" Status: rookie
+User: "Christian_C" PSN: "CC_on_GT7" Country: "UK" Status: rookie
+User: "VanHelzer" PSN: "vanhelzer" Country: "USA" Status: rookie
+## Week 16 ## 18 Apr 2022 ##
+User: "dalie" PSN: "dalie999" Country: "Belgium" Status: rookie
+User: "Sureboss" PSN: "Sureshot-83" Country: "UK" Status: rookie
+User: "waspie" PSN: "Pulser47" Country: "UK" Status: rookie
+User: "HGHTCH" PSN: "otakunorth" Country: "Canada" Status: rookie
+User: "robisme" PSN: "stibbz" Country: "England" Status: rookie
+User: "MagpieRacer" PSN: "Seagull_Racer" Country: "UK" Status: rookie
+User: "Bullwinkle" PSN: "Grand_Slammin" Country: "USA" Status: rookie
+User: "mrmattsly" PSN: "mrmattsly" Country: "USA" Status: rookie
+User: "Burr_" PSN: "Burr-UK" Country: "UK" Status: rookie
+User: "RichLagoe" PSN: "RICH_NOTTS74" Country: "UK" Status: rookie
+## Week 17 ## 26 Apr 2022 ##
+User: "Harmonic" PSN: "iiHarmonic" Country: "USA" Status: rookie
+User: "Landdale" PSN: "Landdale0" Country: "Germany" Status: rookie
+User: "Kodewon" PSN: "kamilflajhe" Country: "USA" Status: rookie
+## Week 18 ## 2 May 2022 ##
+User: "chimeleon" PSN: "Chim_GT3" Country: "FRANCE" Status: rookie
+User: "Boabdulrahman" PSN: "boabdulrahman" Country: "Kuwait" Status: rookie
+User: "Hailsyjh" PSN: "hailsy80" Country: "AUSTRALIA" Status: rookie
+User: "KyodoNSR-YTFR" PSN: "KyodoNSR" Country: "USA" Status: rookie
+User: "Ooh_Ah_Naif" PSN: "Ooh_Ah_Naif" Country: "UK" Status: rookie
+## Week 19 ## 9 May 2022 ##
+User: "aNoojra" PSN: "noojra" Country: "USA" Status: rookie
+User: "Narrie82" PSN: "Narrieeeee" Country: "Netherlands" Status: rookie
+User: "The Hurrikeen" PSN: "Hurrikeen" Country: "England" Status: rookie
+User: "BEZERK805" PSN: "BEZERK_805" Country: "USA" Status: rookie
+## Week 20 ## 17 May 2022 ##
+User: "Kojo" PSN: "Nolakojo" Country: "USA" Status: rookie
+User: "tsingdom" PSN: "tsingdom" Country: "UK" Status: rookie
+User: "JuanManuel" PSN: "Manolnova" Country: "MEXICO" Status: rookie
+User: "Shadowslip71" PSN: "Shadowslip71" Country: "UK" Status: rookie
+User: "spirtle" PSN: "mindzeye2008" Country: "USA" Status: rookie
+## Week 21 ## 23 May 2022 ##
+User: "Nick Parks" PSN: "WRL_NickParks" Country: "GB" Status: rookie
+User: "Jakilla17" PSN: "Jay_SkiLLzZ_17" Country: "USA" Status: rookie
+User: "jrbalazo" PSN: "jrbalazo" Country: "Australia" Status: rookie
+## Week 22 ## 30 May 2022 ##
+User: "Average Kiwi" PSN: "froggohunter" Country: "NZ" Status: rookie
+User: "tmtk" PSN: "tmtkview" Country: "Poland" Status: rookie
+User: "Jamie duerden" PSN: "Rampuss" Country: "ENGLAND" Status: rookie
+## Week 27 ## 4 Jul 2022 ##
+User: "Jee-Pee" PSN: "GoBBLiN" Country: "BE" Status: rookie
+## Week 28 ## 13 Jul 2022 ##
+User: "DMC_292" PSN: "DMC_292" Country: "USA" Status: rookie
+User: "Zakster" PSN: "Zakster2018" Country: "USA" Status: rookie
+## Week 30 ## 25 Jul 2022 ##
+User: "BlazingDragon" PSN: "BlazinDragon" Country: "USA" Status: rookie
+User: "wAz-JO" PSN: "wAz-JO" Country: "FRANCE" Status: rookie
+User: "Flatliner 303" PSN: "Flatliner303" Country: "DE" Status: rookie
+## Week 31 ## 2 Aug 2022 ##
+User: "Gavens" PSN: "Gavens1976" Country: "ITALY" Status: rookie
+User: "Nebuc72" PSN: "Nebuc72" Country: "UK" Status: rookie
+User: "Jordan Abnett" PSN: "TRiP_Drifter" Country: "UK" Status: rookie
+User: "rabihkfoury" PSN: "rabihk" Country: "Lebanon" Status: rookie
+## Week 32 ## 13 Aug 2022 ##
+User: "Smiler_V1" PSN: "Smiler_V1" Country: "United kingdom" Status: rookie
+## Week 33 ## 17 Aug 2022 ##
+User: "onurpalaur" PSN: "PalaurOnur" Country: "TURKEY" Status: rookie
+## Week 34 ## 26 Aug 2022 ##
+User: "BobHildalgo" PSN: "BobHildalgo" Country: "USA" Status: rookie
+User: "mustangxr" PSN: "mustangxr" Country: "Canada" Status: rookie
+## Week 35 ## 31 Aug 2022 ##
+User: "Bobby Bolivia" PSN: "xxpkslayer" Country: "United States" Status: rookie
+User: "BootKicker" PSN: "BruhBootkicker" Country: "USA" Status: rookie
+## Week 39 ## 26 Sep 2022 ##
+User: "Obelisk" PSN: "RMedia_Obelisk" Country: "USA" Status: rookie
+## Week 40 ## 3 Oct 2022 ##
+User: "Delexo" PSN: "PaulRuddLover" Country: "UK" Status: rookie
+User: "benjoi84" PSN: "benjoi84" Country: "Spain" Status: rookie
+## Week 41 ## 12 Oct 2022 ##
+User: "Jepperrrr" PSN: "JEPPERRRRR" Country: "NL" Status: rookie
+User: "coyb20" PSN: "Cubiziod" Country: "United Kingdom" Status: rookie
+## Week 44 ## 1 Nov 2022 ##
+User: "Estoj" PSN: "Estoj" Country: "Belgium" Status: rookie
+## Week 45 ## 8 Nov 2022 ##
+User: "Mcfc13" PSN: "mcfc1_13" Country: "GB" Status: rookie
+## Week 46 ## 15 Nov 2022 ##
+User: "dstn_gg" PSN: "DSTN_GG" Country: "NL" Status: rookie
+## Week 47 ## 21 Nov 2022 ##
+User: "Minigunjones" PSN: "Minigun_Jones" Country: "USA" Status: rookie
+User: "Spirit" PSN: "CWM_Spirit" Country: "USA" Status: rookie
+## Week 49 ## 6 Dec 2022 ##
+User: "C-S-M101" PSN: "C-S-M101" Country: "United Kingdom" Status: rookie
+User: "superjag86" PSN: "SuperJag86" Country: "UK" Status: rookie
+User: "Yopedro" PSN: "Captn_Pedro" Country: "USA" Status: rookie
+User: "st9389" PSN: "st9389" Country: "USA" Status: rookie
+## Week 50 ## 13 Dec 2022 ##
+User: "Gavi" PSN: "quazy_gavi" Country: "Brazil" Status: rookie
+## Week 52 ## 29 Dec 2022 ##
+User: "Cheeeese" PSN: "swisscheeeesy1" Country: "Switzerland" Status: rookie
+## Week 01 ## 2 Jan 2023 ##
+User: "ryan30163" PSN: "MrPersonPs" Country: "USA" Status: rookie
+User: "CBMATT" PSN: "ELIMARCB" Country: "CAN" Status: rookie
+User: "JauntsB" PSN: "JauntsB" Country: "Australia" Status: rookie
+## Week 03 ## 17 Jan 2023 ##
+User: "Jordan92" PSN: "ErectoExplodus" Country: "UK" Status: rookie
+User: "Baka_Marimo" PSN: "Baka_Marimo" Country: "Germany" Status: rookie
+## Week 06 ## 9 Feb 2023 ##
+User: "Pastinacalda" PSN: "DCT_Pastinacalda" Country: "Italy" Status: rookie
+User: "Foffy" PSN: "Goofy_Titan" Country: "USA" Status: rookie
+

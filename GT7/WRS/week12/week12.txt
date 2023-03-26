@@ -1,0 +1,37 @@
+
+Week: 12
+Desc: SWIFT FUJI
+Car: Suzuki Swift Sport Gr.4
+Track: Fuji International Speedway
+Image: https://www.gtplanet.net/forum/media/fuji-international-speedway__9-jpeg.128543/full
+Image: https://www.gtplanet.net/forum/media/fuji-international-speedway__7-jpeg.128541/full
+Image: https://www.gtplanet.net/forum/media/fuji-international-speedway__5-jpeg.128539/full
+Image: https://www.gtplanet.net/forum/media/fuji-international-speedway__8-jpeg.128542/full
+Image: https://www.gtplanet.net/forum/media/fuji-international-speedway_-jpeg.128534/full
+Outfile: week12.out
+Statfile: week12.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: Hasnain282 Time: 1'44.095 Disq: green
+PSN: boabdulrahman Time: 1'44.543 Disq: green
+PSN: colinnola Time: 1'44.752 Disq: green
+PSN: JamCar0ne Time: 1'44.875 Disq: green
+PSN: RuddRacer Time: 1'45.047 Disq: green
+PSN: Mysteron71 Time: 1'45.058 Disq: green
+PSN: Allibubba99 Time: 1'45.292 Disq: green
+PSN: GTP_Frank Time: 1'45.663 Disq: green
+PSN: GTP_Eggstor Time: 1'46.077 Disq: unverified
+PSN: shoenboggie Time: 1'46.220 Disq: unverified
+PSN: GTP_DGiant2000 Time: 1'46.497 Disq: unverified
+PSN: DonNerazzurri666 Time: 1'46.699 Disq: unverified
+PSN: GTP_Steven Time: 1'48.082 Disq: green
+PSN: stann_oz66 Time: 99'99.999 Disq: replay
+

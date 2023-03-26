@@ -1,0 +1,42 @@
+
+Week: 4
+Desc: Mount Shelby
+Car: Ford Shelby GT350R '16
+Track: Trial Mountain
+Image: https://www.gtplanet.net/forum/media/gran-turismo%C2%AE-7_20220429222843-jpg.126548/full
+Image: https://www.gtplanet.net/forum/media/gran-turismo%C2%AE-7_20220429223443-jpg.126550/full
+Image: https://www.gtplanet.net/forum/media/gran-turismo%C2%AE-7_20220429223541-jpg.126553/full
+Image: https://www.gtplanet.net/forum/media/gran-turismo%C2%AE-7_20220429223507-jpg.126551/full
+Image: https://www.gtplanet.net/forum/media/gran-turismo%C2%AE-7_20220429223525-jpg.126552/full
+Outfile: week4.out
+Statfile: week4.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: DoodleAM Time: 2'07.130 Disq: green
+PSN: RFLX_Niop Time: 2'08.030 Disq: green
+PSN: GTP_Animera Time: 2'08.186 Disq: green
+PSN: GTP_billyjoebobx Time: 2'08.505 Disq: green
+PSN: boabdulrahman Time: 2'08.527 Disq: unverified
+PSN: Hasnain282 Time: 2'08.776 Disq: unverified
+PSN: TPC_Gooners Time: 2'08.865 Disq: green
+PSN: tarnheld Time: 2'09.367 Disq: green
+PSN: RuddRacer Time: 2'09.367 Disq: green
+PSN: shoenboggie Time: 2'09.484 Disq: green
+PSN: Chim_GT3 Time: 2'10.079 Disq: green
+PSN: GTP_tzracer Time: 2'10.435 Disq: unverified
+PSN: Munch2112 Time: 2'10.514 Disq: unverified
+PSN: colinnola Time: 2'10.538 Disq: unverified
+PSN: GTP_Eggstor Time: 2'12.976 Disq: green
+PSN: DonNerazzurri666 Time: 2'14.512 Disq: green
+PSN: stibbz Time: 2'14.539 Disq: green
+PSN: Chrome_PuPXD Time: 99'99.999 Disq: offtrack
+PSN: mrmattsly Time: 99'99.999 Disq: offtrack
+

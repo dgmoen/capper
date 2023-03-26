@@ -1,0 +1,39 @@
+
+Week: 9
+Desc: Porsche over Red Water
+Car: Porsche 911 RSR (991) '17
+Track: Circuit de Spa-Francorchamps
+Image: https://www.gtplanet.net/forum/media/circuit-de-spa-francorchamps_-jpeg.127790/full
+Image: https://www.gtplanet.net/forum/media/circuit-de-spa-francorchamps__7-jpeg.127789/full
+Image: https://www.gtplanet.net/forum/media/circuit-de-spa-francorchamps__6-jpeg.127788/full
+Image: https://www.gtplanet.net/forum/media/circuit-de-spa-francorchamps__2-jpeg.127784/full
+Image: https://www.gtplanet.net/forum/media/circuit-de-spa-francorchamps__5-jpeg.127787/full
+Outfile: week9.out
+Statfile: week9.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: Hasnain282 Time: 2'17.065 Disq: green
+PSN: GTP_Jammy Time: 2'17.187 Disq: green
+PSN: MeisterFetz Time: 2'17.223 Disq: green
+PSN: GTP_Animera Time: 2'17.362 Disq: unverified
+PSN: boabdulrahman Time: 2'17.650 Disq: green
+PSN: Mysteron71 Time: 2'17.801 Disq: green
+PSN: GTP_WRP001 Time: 2'17.952 Disq: green
+PSN: GTP_billyjoebobx Time: 2'18.110 Disq: unverified
+PSN: Sjokkomoes Time: 2'18.237 Disq: unverified
+PSN: RuddRacer Time: 2'18.476 Disq: unverified
+PSN: stann_oz66 Time: 2'18.973 Disq: unverified
+PSN: Chim_GT3 Time: 2'19.222 Disq: green
+PSN: colinnola Time: 2'19.435 Disq: unverified
+PSN: tmtkview Time: 2'19.974 Disq: green
+PSN: GTP_Eggstor Time: 2'20.445 Disq: green
+PSN: DonNerazzurri666 Time: 2'21.885 Disq: green
+

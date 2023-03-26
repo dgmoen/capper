@@ -1,0 +1,48 @@
+
+Week: 2
+Desc: Rosso Corsa
+Car: Ferrari F50 '95
+Track: Autodromo Nazionale Monza
+Image: https://www.gtplanet.net/forum/media/gran-turismo%C2%AE-7_20220411150501-jpg.125884/full
+Image: https://www.gtplanet.net/forum/media/gran-turismo%C2%AE-7_20220411150521-jpg.125885/full
+Image: https://www.gtplanet.net/forum/media/gran-turismo%C2%AE-7_20220411150541-jpg.125887/full
+Image: https://www.gtplanet.net/forum/media/gran-turismo%C2%AE-7_20220411150531-jpg.125886/full
+Image: https://www.gtplanet.net/forum/media/gran-turismo%C2%AE-7_20220411150548-jpg.125888/full
+Outfile: week2.out
+Statfile: week2.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: RFLX_Niop Time: 1'55.757 Disq: green
+PSN: mistersafeway Time: 1'56.158 Disq: green
+PSN: Hasnain282 Time: 1'56.252 Disq: green
+PSN: GTP_Animera Time: 1'56.287 Disq: green
+PSN: GTP_billyjoebobx Time: 1'56.372 Disq: green
+PSN: GTP_Jammy Time: 1'56.774 Disq: green
+PSN: GTP_Roamer2629 Time: 1'57.119 Disq: green
+PSN: GTP_tzracer Time: 1'57.122 Disq: green
+PSN: Chrome_PuPXD Time: 1'57.154 Disq: green
+PSN: RuddRacer Time: 1'57.332 Disq: green
+PSN: Munch2112 Time: 1'57.381 Disq: green
+PSN: tarnheld Time: 1'57.672 Disq: green
+PSN: mrmattsly Time: 1'57.790 Disq: green
+PSN: Ruzinvincible Time: 1'58.059 Disq: green
+PSN: Sureshot-83 Time: 1'58.150 Disq: green
+PSN: MAD_Mires Time: 1'58.368 Disq: green
+PSN: colinnola Time: 1'58.573 Disq: green
+PSN: Allibubba99 Time: 1'59.197 Disq: green
+PSN: shoenboggie Time: 1'59.462 Disq: green
+PSN: stibbz Time: 1'59.983 Disq: green
+PSN: GTP_Eggstor Time: 2'00.988 Disq: green
+PSN: DonNerazzurri666 Time: 99'99.999 Disq: offtrack
+PSN: dalie999 Time: 99'99.999 Disq: replay
+PSN: Sjokkomoes Time: 99'99.999 Disq: replay
+PSN: CC_on_GT7 Time: 99'99.999 Disq: replay
+

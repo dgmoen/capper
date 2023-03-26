@@ -1,0 +1,38 @@
+
+Week: 8
+Desc: Snake In The ~~Grass~~ Sand
+Car: Viper Gr.4
+Track: WeatherTech Raceway Laguna Seca
+Image: https://www.gtplanet.net/forum/media/weathertech-raceway-laguna-seca__1-jpeg.127512/full
+Image: https://www.gtplanet.net/forum/media/weathertech-raceway-laguna-seca__5-jpeg.127516/full
+Image: https://www.gtplanet.net/forum/media/weathertech-raceway-laguna-seca__2-jpeg.127513/full
+Image: https://www.gtplanet.net/forum/media/weathertech-raceway-laguna-seca__6-jpeg.127517/full
+Image: https://www.gtplanet.net/forum/media/weathertech-raceway-laguna-seca__4-jpeg.127515/full
+Outfile: week8.out
+Statfile: week8.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: GTP_Jammy Time: 1'26.262 Disq: green
+PSN: GTP_Animera Time: 1'26.365 Disq: green
+PSN: MeisterFetz Time: 1'26.492 Disq: green
+PSN: Hasnain282 Time: 1'26.521 Disq: unverified
+PSN: tmtkview Time: 1'27.196 Disq: green
+PSN: RuddRacer Time: 1'27.228 Disq: green
+PSN: Chim_GT3 Time: 1'27.347 Disq: green
+PSN: Sjokkomoes Time: 1'27.426 Disq: unverified
+PSN: colinnola Time: 1'27.434 Disq: unverified
+PSN: Munch2112 Time: 1'28.299 Disq: unverified
+PSN: GTP_Frank Time: 1'28.365 Disq: unverified
+PSN: JamCar0ne Time: 1'28.528 Disq: unverified
+PSN: GTP_Eggstor Time: 1'28.566 Disq: unverified
+PSN: froggohunter Time: 1'29.283 Disq: unverified
+PSN: DonNerazzurri666 Time: 1'30.018 Disq: unverified
+

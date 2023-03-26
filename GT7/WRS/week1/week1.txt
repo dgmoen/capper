@@ -1,0 +1,63 @@
+
+Week: 1
+Desc: Flooding the Boards
+Car: Nissan Silvia spec-R Aero (S15) Touring Car
+Track: Tsukuba Circuit
+Image: https://www.gtplanet.net/forum/media/picture9-png.125531/full
+Image: https://www.gtplanet.net/forum/media/picture8-png.125530/full
+Image: https://www.gtplanet.net/forum/media/picture5-png.125527/full
+Image: https://www.gtplanet.net/forum/media/picture6-png.125528/full
+Image: https://www.gtplanet.net/forum/media/picture1-png.125526/full
+Outfile: week1.out
+Statfile: week1.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+Squeeze: 1.5 # default 1.2
+Scoot: 0.25 # -0.10 
+
+PSN: DoodleAM Time: 0'56.950 Disq: green
+PSN: WilliamsJIM_Adam Time: 0'57.011 Disq: green
+PSN: Maxscapes Time: 0'57.181 Disq: green
+PSN: I__Like_Oranges Time: 0'57.188 Disq: green
+PSN: GTP_PASM Time: 0'57.268 Disq: green
+PSN: mistersafeway Time: 0'57.303 Disq: green
+PSN: GTP_Animera Time: 0'57.380 Disq: green
+PSN: Hasnain282 Time: 0'57.443 Disq: green
+PSN: RedPartyhat Time: 0'57.469 Disq: green
+PSN: GTP_billyjoebobx Time: 0'57.490 Disq: green
+PSN: TPC_Gooners Time: 0'57.514 Disq: green
+PSN: RFLX_Niop Time: 0'57.541 Disq: green
+PSN: Ruzinvincible Time: 0'57.579 Disq: green
+PSN: GTP_MadMax Time: 0'57.584 Disq: green
+PSN: GTP_Jammy Time: 0'57.599 Disq: green
+PSN: GTP_EDK Time: 0'57.702 Disq: green
+PSN: MAD_Mires Time: 0'57.748 Disq: green
+PSN: mcfizzle Time: 0'57.754 Disq: green
+PSN: shoenboggie Time: 0'57.757 Disq: green
+PSN: Speedy6543 Time: 0'57.764 Disq: green
+PSN: Chrome_PuPXD Time: 0'57.770 Disq: green
+PSN: RuddRacer Time: 0'57.789 Disq: green
+PSN: CC_on_GT7 Time: 0'57.791 Disq: green
+PSN: bl23ub Time: 0'57.970 Disq: green
+PSN: GTP_Roamer2629 Time: 0'58.031 Disq: green
+PSN: Sureshot-83 Time: 0'58.159 Disq: green
+PSN: Valex997 Time: 0'58.183 Disq: green
+PSN: routergod24 Time: 0'58.183 Disq: green
+PSN: GTP_tzracer Time: 0'58.191 Disq: green
+PSN: stann_oz66 Time: 0'58.385 Disq: green
+PSN: Allibubba99 Time: 0'58.441 Disq: green
+PSN: colinnola Time: 0'58.446 Disq: green
+PSN: GTP_Frank Time: 0'58.626 Disq: green
+PSN: GTP_Eggstor Time: 0'58.750 Disq: green
+PSN: DonNerazzurri666 Time: 0'58.776 Disq: green
+PSN: Munch2112 Time: 0'58.813 Disq: green
+PSN: Clemeson Time: 0'58.889 Disq: green
+PSN: DozUK Time: 0'59.021 Disq: replay
+PSN: GTP_Steven Time: 0'59.647 Disq: replay
+PSN: half_sourly Time: 0'57.985 Disq: replay
+

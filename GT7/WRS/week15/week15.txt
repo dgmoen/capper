@@ -1,0 +1,34 @@
+
+Week: 15
+Desc: SARDEGNA GT500
+Car: Honda NSX GT500 '08
+Track: Sardegna - Road Track Layout A
+Image: https://www.gtplanet.net/forum/media/sardegna-road-track-a__6-jpeg.128489/full
+Image: https://www.gtplanet.net/forum/media/sardegna-road-track-a__4-jpeg.128487/full
+Image: https://www.gtplanet.net/forum/media/sardegna-road-track-a__11-jpeg.128494/full
+Image: https://www.gtplanet.net/forum/media/sardegna-road-track-a__9-jpeg.128492/full
+Image: https://www.gtplanet.net/forum/media/sardegna-road-track-a__12-jpeg.128495/full
+Outfile: week15.out
+Statfile: week15.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: Hasnain282 Time: 1'34.783 Disq: green
+PSN: boabdulrahman Time: 1'35.187 Disq: green
+PSN: Argon56 Time: 1'35.680 Disq: green
+PSN: tarnheld Time: 1'35.827 Disq: green
+PSN: half_sourly Time: 1'35.848 Disq: green
+PSN: RuddRacer Time: 1'36.100 Disq: unverified
+PSN: colinnola Time: 1'36.708 Disq: unverified
+PSN: GTP_Eggstor Time: 1'37.380 Disq: green
+PSN: JamCar0ne Time: 1'37.903 Disq: green
+PSN: GTP_Steven Time: 1'39.922 Disq: green
+PSN: Allibubba99 Time: 99'99.999 Disq: replay
+

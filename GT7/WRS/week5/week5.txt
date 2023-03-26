@@ -1,0 +1,45 @@
+
+Week: 5
+Desc: Time for Some Grip
+Car: Honda NSX Concept-GT '16
+Track: Suzuka Circuit
+Image: https://www.gtplanet.net/forum/media/20969937359931400-jpg.126929/full
+Image: https://www.gtplanet.net/forum/media/20970196489496710-jpg.126930/full
+Image: https://www.gtplanet.net/forum/media/20970360899398330-jpg.126933/full
+Image: https://www.gtplanet.net/forum/media/20970331372535715-jpg.126932/full
+Image: https://www.gtplanet.net/forum/media/20970243941944458-jpg.126931/full
+Outfile: week5.out
+Statfile: week5.stat
+Shape: standard
+#Shape: custom -0.5 0.0 1.25 3.0 5.0 14.0 
+#Shape: custom -0.5 0.0 1.5 2.5 4.0 14.0 
+#Gold_shift: -0.05 0.0 -0.05 -0.05 -0.25 
+Weight: 1.0 # default 1.0
+Event_Status: Final
+#Comments: Keep 'em coming!
+#Squeeze: 1.25 # default 1.2
+#Scoot: 0.0 # -0.10 
+
+PSN: GTP_Animera Time: 1'47.274 Disq: green
+PSN: TPC_Gooners Time: 1'47.405 Disq: green
+PSN: Hasnain282 Time: 1'47.614 Disq: green
+PSN: GTP_billyjoebobx Time: 1'47.808 Disq: green
+PSN: Argon56 Time: 1'48.038 Disq: green
+PSN: Mysteron71 Time: 1'48.221 Disq: green
+PSN: boabdulrahman Time: 1'48.499 Disq: green
+PSN: Chrome_PuPXD Time: 1'48.561 Disq: green
+PSN: Speedy6543 Time: 1'48.643 Disq: green
+PSN: colinnola Time: 1'48.809 Disq: green
+PSN: Sureshot-83 Time: 1'48.911 Disq: green
+PSN: RuddRacer Time: 1'48.984 Disq: unverified
+PSN: Chim_GT3 Time: 1'49.146 Disq: green
+PSN: mrmattsly Time: 1'49.507 Disq: green
+PSN: GTP_Frank Time: 1'49.942 Disq: green
+PSN: GTP_DGiant2000 Time: 1'49.963 Disq: green
+PSN: Munch2112 Time: 1'50.067 Disq: unverified
+PSN: Clemeson Time: 1'50.155 Disq: green
+PSN: shoenboggie Time: 1'50.358 Disq: unverified
+PSN: JamCar0ne Time: 1'50.390 Disq: green
+PSN: Hurrikeen Time: 1'51.150 Disq: green
+PSN: GTP_Eggstor Time: 1'51.890 Disq: unverified
+
